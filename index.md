@@ -2,4 +2,5 @@
 
 In questo sito sono presenti tutti gli appunti che uso per studiare durante il liceo.
 
-[Filosofia](https://github.com/bulkparrot/notes/tree/main/filosofia)
+## Filosofia
+-[I sofisti](https://github.com/bulkparrot/notes/blob/main/filosofia/I%20sofisti.pdf)
