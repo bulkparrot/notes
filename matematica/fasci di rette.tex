@@ -6,12 +6,36 @@
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{graphicx}
+\usepackage{mdframed}
+\usepackage{xcolor}
 \usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
 \author{Tommaso Severini}
 \title{Matematica - Fasci di rette}
 \begin{document}
+	
+	%% mdframed definizione
+\mdfdefinestyle{theoremstyle}{%
+	linecolor=orange,linewidth=2pt,%
+	frametitlerule=true,%
+	frametitlebackgroundcolor=gray!20,
+	innertopmargin=\topskip,
+}
+\mdtheorem[style=theoremstyle]{definition}{Definition}
+	
 	\maketitle
 	
+	Sappiamo come descrivere una retta conoscendo il suo coefficiente angolare ed un punto per cui questa retta passa attraverso la formula:
+	\begin{equation*}
+			y - y_0 = m(x - x_0)
+	\end{equation*} 
+	Se supponiamo che m possa variare e assumere qualsiasi valore appartenente a $\mathbb{R}$, essa diventerà l'equazione che descrive tutte le rette passanti per il punto $P(x_0; y_0)$. Questo insieme prende il nome di \textbf{fascio di rette proprio} si centro P.m L'unica retta non descritta da questa equazione è la retta $x = x_0$, in quanto il coefficiente angolare di questa retta tende a infinito.
 	
+	\begin{definition}[Fascio proprio di rette]
+		L'equazione 
+		\begin{equation*}
+				y - y_0 = m(x - x_0)
+		\end{equation*}
+	dove $m$ è un elemento dei numeri reali, definisce il fascio di rette proprio di centro $P(x_0; y_0)$, esclusa l'equazione $x = x_0$
+	\end{definition}
 	
 \end{document}
