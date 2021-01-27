@@ -40,9 +40,10 @@
 	dove $m$ è un elemento dei numeri reali, definisce il fascio di rette proprio di centro $P(x_0; y_0)$, esclusa l'equazione $x = x_0$
 	\end{definition}
 
-{\centering
-\begin{tikzpicture}
+
+\begin{tikzpicture}[right]
 	\begin{axis}[
+		title={Fascio di rette generato da $y-3=m(x+2)$},
 		axis lines = left,
 		xlabel = $x$,
 		ylabel = {$f(x)$},
@@ -53,17 +54,38 @@
 		samples=100, 
 		color=red,
 		]
-		{x - 1};
+		{x + 5};
 		%Here the blue line is defined
 		\addplot [
 		domain=-10:10, 
 		samples=100, 
 		color=blue,
 		]
-		{2*x + 1};
+		{2*x + 7};
+		
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=orange,
+		]
+		{3*x + 9};
+		
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=green,
+		]
+		{6*x + 15};
+		
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=violet,
+		]
+		{-2*x - 1};
 		
 	\end{axis}
 \end{tikzpicture}
-}
+
 	
 \end{document}

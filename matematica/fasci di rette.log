@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  28 JAN 2021 00:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  28 JAN 2021 00:17
 entering extended mode
 **"./fasci di rette.tex"
 ("fasci di rette.tex"
@@ -869,13 +869,13 @@ zione
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 ("fasci di rette.aux") ) 
 Here is how much of TeX's memory you used:
- 25368 strings out of 479624
- 643924 string characters out of 2864197
- 1047469 words of memory out of 3000000
- 42103 multiletter control sequences out of 15000+200000
+ 25387 strings out of 479624
+ 644297 string characters out of 2864197
+ 1079464 words of memory out of 3000000
+ 42122 multiletter control sequences out of 15000+200000
  412845 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,9n,94p,749b,1960s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 97i,9n,94p,749b,1949s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/p
 k/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX
@@ -887,9 +887,9 @@ mmaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
 r7.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/symbols/msbm10.pfb>
-Output written on "fasci di rette.pdf" (1 page, 70441 bytes).
+Output written on "fasci di rette.pdf" (1 page, 73773 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 127 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
