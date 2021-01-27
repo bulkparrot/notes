@@ -8,6 +8,8 @@
 \usepackage{graphicx}
 \usepackage{mdframed}
 \usepackage{xcolor}
+\usepackage{pgfplots}
+\pgfplotsset{width=3in,compat=1.9}
 \usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
 \author{Tommaso Severini}
 \title{Matematica - Fasci di rette}
@@ -36,6 +38,32 @@
 				y - y_0 = m(x - x_0)
 		\end{equation*}
 	dove $m$ è un elemento dei numeri reali, definisce il fascio di rette proprio di centro $P(x_0; y_0)$, esclusa l'equazione $x = x_0$
-	\end{definition}
+	\end{definition}
+
+{\centering
+\begin{tikzpicture}
+	\begin{axis}[
+		axis lines = left,
+		xlabel = $x$,
+		ylabel = {$f(x)$},
+		]
+		%Below the red line is defined
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=red,
+		]
+		{x - 1};
+		%Here the blue line is defined
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=blue,
+		]
+		{2*x + 1};
+		
+	\end{axis}
+\end{tikzpicture}
+}
 	
 \end{document}
