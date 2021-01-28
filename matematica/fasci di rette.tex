@@ -99,8 +99,49 @@
 		\begin{equation*}
 			y = mx + k \qquad k \in \mathbb{R}
 		\end{equation*}
-	definisce un fascio di rette di rette improprio. Esso sarà composto da  rette parallele di coefficiente angolare $m$.
+	definisce un fascio di rette di rette improprio. Esso sarà composto da  rette parallele di coefficiente angolare $m$. 
+	
+	
 	\end{definition}
 
+\begin{center}
+	\begin{tikzpicture}
+		\begin{axis}[
+		title={Fascio di rette generato da $y = x + k$},
+		axis lines = left,
+		xlabel = $x$,
+		ylabel = {$f(x)$},
+		]
+		%Below the red line is defined
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=red,
+		]
+		{x + 5};
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=blue,
+		]
+		{x + 2};
+		\addplot [
+		domain=-10:10, 
+		samples=100, 
+		color=orange,
+		]
+		{x - 3};
+		\end{axis}
+	\end{tikzpicture}
+\end{center} 
+
+Bisogna anche ricordare che un fascio di rette proprio può essere generato da due rette date $r$ e $s$:
+	\begin{definition}[Fascio generato da due rette]
+		Date due rette $r$ e $s$, il fascio generato da queste rette sarà dato dall'equazione 
+		\begin{equation*}
+			ax + by + c + k(a'x + b'y + c')= 0	\qquad	k \in \mathbb{R}
+		\end{equation*}
+		Dove $ax + by + c$ e $a'x + b'y + c'$ rappresentano le rette $r$ e $s$.
+	\end{definition}
 	
 \end{document}
