@@ -5,6 +5,10 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 ## Matematica
 -[Fasci di rette](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/fasci%20di%20rette.pdf)
 
+## Biologia
+
+-[Operone lac](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/biologia/Operone%20lac.pdf)
+
 ## Filosofia
 -[I sofisti](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/I%20sofisti.pdf)  
 -[Socrate](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/Socrate.pdf)
