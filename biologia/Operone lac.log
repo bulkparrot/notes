@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 JAN 2021 23:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 JAN 2021 23:26
 entering extended mode
 **"./Operone lac.tex"
 ("Operone lac.tex"
@@ -255,30 +255,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--23
  utili al mo-mento.
  []
 
+<operone no lac.png, id=3, 408.3255pt x 127.677pt>
+File: operone no lac.png Graphic file (type png)
+<use operone no lac.png>
+Package pdftex.def Info: operone no lac.png  used on input line 32.
+(pdftex.def)             Requested size: 317.07614pt x 99.14735pt.
 [1
 
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./operone.png
->] [2] ("Operone lac.aux") ) 
+> <./operone no lac.png>] [2] ("Operone lac.aux") ) 
 Here is how much of TeX's memory you used:
- 3186 strings out of 479624
- 42804 string characters out of 2864197
- 323923 words of memory out of 3000000
- 20324 multiletter control sequences out of 15000+200000
+ 3192 strings out of 479624
+ 42933 string characters out of 2864197
+ 322923 words of memory out of 3000000
+ 20329 multiletter control sequences out of 15000+200000
  414388 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,70p,1151b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/lj
-four/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\
-Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/T
-ommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-<C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb>
-Output written on "Operone lac.pdf" (2 pages, 76675 bytes).
+ 66i,6n,70p,1151b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tommaso\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\T
+ommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:
+\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200
+.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecrm1728.pk><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "Operone lac.pdf" (2 pages, 104389 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
+ 164 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
