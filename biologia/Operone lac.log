@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 JAN 2021 18:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 JAN 2021 19:27
 entering extended mode
 **"./Operone lac.tex"
 ("Operone lac.tex"
@@ -124,6 +124,14 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen150
+\WF@size=\dimen151
+\c@WF@wrappedlines=\count197
+\WF@box=\box49
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
@@ -132,58 +140,58 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count197
-\Gm@cntv=\count198
-\c@Gm@tempcnt=\count199
-\Gm@bindingoffset=\dimen150
-\Gm@wd@mp=\dimen151
-\Gm@odd@mp=\dimen152
-\Gm@even@mp=\dimen153
-\Gm@layoutwidth=\dimen154
-\Gm@layoutheight=\dimen155
-\Gm@layouthoffset=\dimen156
-\Gm@layoutvoffset=\dimen157
-\Gm@dimlist=\toks23
+\Gm@cnth=\count198
+\Gm@cntv=\count199
+\c@Gm@tempcnt=\count266
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks24
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
 ))
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count266
-\l__pdf_internal_box=\box49
+\l__kernel_color_stack_int=\count267
+\l__pdf_internal_box=\box50
 ) ("Operone lac.aux")
 \openout1 = `"Operone lac.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
-\scratchdimen=\dimen158
-\scratchbox=\box50
-\nofMPsegments=\count268
-\nofMParguments=\count269
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count270
-\MPscratchDim=\dimen159
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count268
+\scratchdimen=\dimen160
+\scratchbox=\box51
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen161
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks26
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
 -base.sty
@@ -225,39 +233,52 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<operone.png, id=1, 335.45325pt x 105.996pt>
+File: operone.png Graphic file (type png)
+<use operone.png>
+Package pdftex.def Info: operone.png  used on input line 22.
+(pdftex.def)             Requested size: 180.67499pt x 57.09142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
+\T1/cmr/m/n/10 cel-lula non sprechi en-er-gia per sin-te-tiz-zare pro-teine non
+ utili al mo-mento.
+ []
+
 [1
 
-{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-("Operone lac.aux") ) 
+{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./operone.png
+>] ("Operone lac.aux") ) 
 Here is how much of TeX's memory you used:
- 3105 strings out of 479624
- 41694 string characters out of 2864197
- 316700 words of memory out of 3000000
- 20251 multiletter control sequences out of 15000+200000
- 412845 words of font info for 57 fonts, out of 3000000 for 9000
+ 3186 strings out of 479624
+ 42804 string characters out of 2864197
+ 321923 words of memory out of 3000000
+ 20324 multiletter control sequences out of 15000+200000
+ 414388 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,70p,1046b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
-nappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/l
-jfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Local\M
-iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/Tommaso/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Tomma
-so/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Operone lac.pdf" (1 page, 49345 bytes).
+ 66i,6n,70p,1141b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/Tomma
+so/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
+Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb>
+Output written on "Operone lac.pdf" (1 page, 71733 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
+ 150 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
