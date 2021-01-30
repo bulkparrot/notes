@@ -9,6 +9,10 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 
 -[Operone lac](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/biologia/Operone%20lac.pdf)
 
+## Chimica
+
+-[Teorie atomiche](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/chimica/Teorie%20atomiche.pdf)
+
 ## Filosofia
 -[I sofisti](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/I%20sofisti.pdf)  
 -[Socrate](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/Socrate.pdf)
