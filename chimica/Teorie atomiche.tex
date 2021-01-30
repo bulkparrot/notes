@@ -6,11 +6,39 @@
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{graphicx}
+\usepackage{mdframed}
 \usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
 \author{Tommaso Severini}
 \title{Chimica - Le teorie atomiche}
 \begin{document}
+		%% mdframed definizione rosso
+	\mdfdefinestyle{theoremstylered}{%
+		linecolor=red,linewidth=2pt,%
+		frametitlerule=true,%
+		frametitlebackgroundcolor=gray!20,
+		innertopmargin=\topskip,
+	}
+	\mdtheorem[style=theoremstylered]{definitionred}{Definition}
+	
+		%% mdframed definizione blu
+	\mdfdefinestyle{theoremstyleblue}{%
+		linecolor=blue,linewidth=2pt,%
+		frametitlerule=true,%
+		frametitlebackgroundcolor=gray!20,
+		innertopmargin=\topskip,
+	}
+	\mdtheorem[style=theoremstyleblue]{definitionblue}{Definition}
+	
+		%% mdframed definizione verde
+	\mdfdefinestyle{theoremstylegreen}{%
+		linecolor=green,linewidth=2pt,%
+		frametitlerule=true,%
+		frametitlebackgroundcolor=gray!20,
+		innertopmargin=\topskip,
+	}
+	\mdtheorem[style=theoremstylegreen]{definitiongreen}{Definition}
+	
 	\maketitle
 	
-	Grazie al lavoro svolto da vari chimici nel corso del XVIII e XIX secolo come \textbf{Thomson, Rutherford, Moesly e Chadwick}, oggi conosciamo le caratteristiche delle particelle subatomiche che compongono gli atomi.
+	Grazie al lavoro svolto da vari chimici nel corso del XVIII e XIX secolo come \textbf{Thomson, Rutherford, Moesly e Chadwick}, oggi conosciamo le caratteristiche delle particelle subatomiche che compongono gli atomi: elettroni, protoni e neutroni.
 \end{document}
