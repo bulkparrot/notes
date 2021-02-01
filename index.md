@@ -14,6 +14,7 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 -[Teorie atomiche](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/chimica/Teorie%20atomiche.pdf)
 
 ## Filosofia
+-[Filosofia III](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/Filosofia%20III.pdf)  
 -[I sofisti](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/I%20sofisti.pdf)  
 -[Socrate](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/Socrate.pdf)
 
