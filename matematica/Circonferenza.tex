@@ -6,6 +6,7 @@
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{graphicx}
+\usepackage{wrapfig}
 \usepackage{mdframed}
 \usepackage{xcolor}
 \usepackage{tikz}
@@ -28,11 +29,23 @@
 	
 	In geometria una circonferenza è il luogo geometrico di punti del piano equidistanti da un punto fisso detto centro.
 	
-	\begin{tikzpicture}
-		\draw[step=0.5cm,gray,very thin] (-2.45,-2.45) grid (2.45,2.45);
-		\draw (-2.5,0) -- (2.5,0);
-		\draw (0,-2.5) -- (0,2.5);
-		\draw (-0.5,-0.25) circle [radius=1.5cm];
-	\end{tikzpicture}
+	\begin{center}
+		\begin{tikzpicture}
+			\draw[step=0.5cm,gray,very thin] (-2.45,-2.45) grid (2.45,2.45);
+			\draw (-2.5,0) -- (2.5,0);
+			\draw (0,-2.5) -- (0,2.5);
+			\draw (-0.5,-0.25) circle [radius=1.5cm];
+			
+			\filldraw [gray] (-0.5,-0.25) circle [radius=1pt];
+			\draw (-0.5,-0.5) node [text height=4pt] {$O(x_0 ; y_0)$};
+		\end{tikzpicture}
+	\end{center}
+	
+	In un sistema di riferimento cartesiano, la circonferenza di centro $O(x_0;y;0)$ e raggio $r$ è caratterizzata dall'equazione:
+	\begin{definition}[Equazione di una circonferenza]
+	\centering	$(x-x_0) + (y-y_0) = r^2 $
+	\end{definition}
+	
+	
 	
 \end{document}
