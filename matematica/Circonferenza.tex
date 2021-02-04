@@ -1,0 +1,38 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{mdframed}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{width=3in,compat=1.9}
+\usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
+\author{Tommaso Severini}
+\title{Geometria analitica - Circonferenza}
+\begin{document}
+	\maketitle
+	
+		%% mdframed definizione
+	\mdfdefinestyle{theoremstyle}{%
+		linecolor=orange,linewidth=2pt,%
+		frametitlerule=true,%
+		frametitlebackgroundcolor=gray!20,
+		innertopmargin=\topskip,
+	}
+	\mdtheorem[style=theoremstyle]{definition}{Definition}
+	
+	In geometria una circonferenza è il luogo geometrico di punti del piano equidistanti da un punto fisso detto centro.
+	
+	\begin{tikzpicture}
+		\draw[step=0.5cm,gray,very thin] (-2.45,-2.45) grid (2.45,2.45);
+		\draw (-2.5,0) -- (2.5,0);
+		\draw (0,-2.5) -- (0,2.5);
+		\draw (-0.5,-0.25) circle [radius=1.5cm];
+	\end{tikzpicture}
+	
+\end{document}
