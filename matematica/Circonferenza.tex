@@ -5,6 +5,14 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{makeidx}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,      
+	urlcolor=red,
+}
+
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{mdframed}
@@ -27,21 +35,22 @@
 	}
 	\mdtheorem[style=theoremstyle]{definition}{Definition}
 	
-	In geometria una circonferenza è il luogo geometrico di punti del piano equidistanti da un punto fisso detto centro.
+	\section{Definizioni}
 	
-	\begin{center}
-		\begin{tikzpicture}
-			\draw[step=0.5cm,gray,very thin] (-2.45,-2.45) grid (2.45,2.45);
-			\draw (-2.5,0) -- (2.5,0);
-			\draw (0,-2.5) -- (0,2.5);
-			\draw (-0.5,-0.25) circle [radius=1.5cm];
-			\draw (-0.5,-0.25) -- (0, 1.1642135623731);
-			
-			\filldraw [gray] (-0.5,-0.25) circle [radius=1pt];
-			\draw (-0.5,-0.5) node [text height=4pt] {$O(x_0 ; y_0)$};
-		\end{tikzpicture}
-
-	\end{center}
+	In geometria una circonferenza è il luogo geometrico di punti del piano equidistanti da un punto fisso detto centro.
+\begin{center}	
+	 \begin{tikzpicture}
+	 	\draw[step=0.5cm,gray,very thin] (-2.45,-2.45) grid (2.45,2.45);
+	 	\draw (-2.5,0) -- (2.5,0);
+	 	\draw (0,-2.5) -- (0,2.5);
+	 	\draw [red] (-0.5,-0.25) circle [radius=1.5cm];
+	 	\draw (-0.5,-0.25) -- (0, 1.1642135623731);
+	 	
+	 	\filldraw [gray] (-0.5,-0.25) circle [radius=1pt];
+	 	\draw (-0.5,-0.5) node [text height=4pt] {$O(x_0 ; y_0)$};
+	 \end{tikzpicture}
+\end{center}	
+	
 	
 	In un sistema di riferimento cartesiano, la circonferenza di centro $O(x_0;y;0)$ e raggio $r$ è caratterizzata dall'equazione:
 	\begin{definition}[Equazione di una circonferenza]
@@ -70,5 +79,37 @@ $$ x^{2}+y^{2}+ax+c=0 $$
 Se la circonferenza ha centro sull'asse y, a=0 e l'equazione diventa:
 
 $$ x^{2}+y^{2}+by+c=0 $$
-	
+
+\section{Problemi}
+
+\subsection{Circonferenza di cui è noto il centro e il raggio}
+Basta usare l'equazione $ (x-\alpha )^{2}+(y-\beta )^{2}=r^{2} $
+ A questo problema sono riconducibili anche i seguenti:
+	\begin{itemize}
+		\item è noto un diametro della circonferenza: il diametro è il doppio del raggio e il centro è il punto medio del diametro
+	\end{itemize}
+
+\subsection{Circonferenza per tre punti}
+	\subsubsection{Metodo geometrico}
+Basta ricordare che l'asse di una corda passa sempre per il centro della circonferenza. La procedura risolutiva è la seguente:
+\begin{itemize}
+	\item si costruiscono gli assi di due corde;
+	\item si fa il sistema tra le equazioni dei due assi;
+	\item la soluzione del sistema è il centro della circonferenza;
+	\item a questo punto si può calcolare il raggio.
+\end{itemize}
+
+	\subsubsection{Metodo algebrico}
+Il problema ha tre incognite: i coefficienti a,b,c dell'equazione canonica della circonferenza $ x^{2}+y^{2}+ax+by+c=0$. Si impone il passaggio per i tre punti dati dal problema e si ottiene un sistema lineare in tre equazioni e tre incognite a,b,c.	
+
+\section{Risorse aggiuntive}
+
+\subsection{Illustrazioni geogebra}
+
+\begin{figure}[h]
+	 \includegraphics[width=2in]{qr circonferenza geogebra.png}
+	 
+	 Si possono trovare le risorse del sito Geogebra all'indirizzo link: \\ \url{https://www.geogebra.org/calculator/amdzyutd}
+\end{figure}
+
 \end{document}
