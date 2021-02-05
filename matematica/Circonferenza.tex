@@ -35,6 +35,7 @@
 			\draw (-2.5,0) -- (2.5,0);
 			\draw (0,-2.5) -- (0,2.5);
 			\draw (-0.5,-0.25) circle [radius=1.5cm];
+			\draw (-0.5,-0.25) -- (0, 1.1642135623731);
 			
 			\filldraw [gray] (-0.5,-0.25) circle [radius=1pt];
 			\draw (-0.5,-0.5) node [text height=4pt] {$O(x_0 ; y_0)$};
@@ -46,6 +47,17 @@
 	\centering	$(x-x_0) + (y-y_0) = r^2 $
 	\end{definition}
 	
+	Espandendo i quadrati di binomi e ordinando i termini in ordine di esponente decrescente, otteniamo la forma canonica dell'equazione scritta sopra:
 	
+	\begin{definition}[Forma canonica]
+		\centering	$x^2 + y^2 + ax + by + c = 0$
+		
+		Dalle sostituzioni effettuate ne conviene che:
+		\begin{itemize}
+			\item $-2x_0 = a$ ovvero $ x_0 = -\frac{a}{2}$
+			\item $-2y_0 = b$ ovvero $ y_0 = -\frac{b}{2}$
+			\item $c = x_0^2 + y_0^2 -r^2$ ovvero $ r = \sqrt{x_0^2 + y_0^2 -c}$
+		\end{itemize}
+	\end{definition}
 	
 \end{document}
