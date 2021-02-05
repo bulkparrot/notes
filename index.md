@@ -3,7 +3,8 @@
 In questo sito sono presenti tutti gli appunti che uso per studiare durante il liceo.
 
 ## Matematica
--[Fasci di rette](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/fasci%20di%20rette.pdf)
+-[Fasci di rette](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/fasci%20di%20rette.pdf)  
+-[Circonferenza](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/Circonferenza.pdf)
 
 ## Biologia
 
