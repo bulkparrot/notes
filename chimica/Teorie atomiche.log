@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  5 FEB 2021 19:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  6 FEB 2021 11:13
 entering extended mode
 **"./Teorie atomiche.tex"
 ("Teorie atomiche.tex"
@@ -442,7 +442,7 @@ va. Il suo \T1/cmr/bx/n/10 sim-bolo \T1/cmr/m/n/10 è $\OML/cmm/m/it/10 p[]$ \T1
 Here is how much of TeX's memory you used:
  5236 strings out of 479624
  77940 string characters out of 2864197
- 379111 words of memory out of 3000000
+ 379102 words of memory out of 3000000
  22305 multiletter control sequences out of 15000+200000
  415409 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -462,9 +462,9 @@ pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Tommaso/AppData/Local/Progr
 ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tommaso/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "Teorie atomiche.pdf" (1 page, 98876 bytes).
+Output written on "Teorie atomiche.pdf" (1 page, 99603 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
+ 195 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
