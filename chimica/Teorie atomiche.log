@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  6 FEB 2021 11:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  6 FEB 2021 11:21
 entering extended mode
 **"./Teorie atomiche.tex"
 ("Teorie atomiche.tex"
@@ -440,30 +440,31 @@ va. Il suo \T1/cmr/bx/n/10 sim-bolo \T1/cmr/m/n/10 è $\OML/cmm/m/it/10 p[]$ \T1
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 ("Teorie atomiche.aux") ) 
 Here is how much of TeX's memory you used:
- 5236 strings out of 479624
- 77940 string characters out of 2864197
+ 5238 strings out of 479624
+ 77963 string characters out of 2864197
  379102 words of memory out of 3000000
- 22305 multiletter control sequences out of 15000+200000
- 415409 words of font info for 61 fonts, out of 3000000 for 9000
+ 22306 multiletter control sequences out of 15000+200000
+ 416110 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  91i,6n,94p,480b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/
-pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTe
-X\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Loc
-al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\App
-Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tom
-maso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\U
-sers\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.p
-k><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr7.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tommaso/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on "Teorie atomiche.pdf" (1 page, 91684 bytes).
+r/jknappen/ec/dpi600\ecbi1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/
+pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTe
+X\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Tommaso\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tom
+maso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\U
+sers\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.p
+k> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
+rm1728.pk><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Tommaso/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tommaso/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "Teorie atomiche.pdf" (1 page, 94370 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
+ 202 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
