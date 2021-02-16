@@ -3,6 +3,7 @@
 In questo sito sono presenti tutti gli appunti che uso per studiare durante il liceo.
 
 ## Matematica
+
 -[Fasci di rette](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/fasci%20di%20rette.pdf)  
 -[Circonferenza](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/Circonferenza.pdf)
 
@@ -15,9 +16,14 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 -[Teorie atomiche](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/chimica/Teorie%20atomiche.pdf)
 
 ## Filosofia
+
 -[Filosofia III](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/Filosofia%20III.pdf)  
 -[I sofisti](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/I%20sofisti.pdf)  
 -[Socrate](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/filosofia/Socrate.pdf)
 
 ## Letteratura italiana
--[Divina Commeida - Canti I III V](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Canti%20I%20III%20V.pdf)
+-[Divina Commeida - Canti I III V](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Canti%20I%20III%20V.pdf)  
+
+## Letteratura latina
+
+-[Lucrezio](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/latino/Lucrezio.pdf)
