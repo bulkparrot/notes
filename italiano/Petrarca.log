@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 FEB 2021 22:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 FEB 2021 22:34
 entering extended mode
 **./Petrarca.tex
 (Petrarca.tex
@@ -566,13 +566,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--50
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (Petrarca.aux)
 Package rerunfilecheck Info: File `Petrarca.out' has not changed.
-(rerunfilecheck)             Checksum: E168835937B817D20B2BBDC1FE8ADFC0;94.
+(rerunfilecheck)             Checksum: 1F9F6D4AD02E717C2C327087662927D5;129.
  ) 
 Here is how much of TeX's memory you used:
- 8573 strings out of 479624
- 130932 string characters out of 2864197
- 449616 words of memory out of 3000000
- 25576 multiletter control sequences out of 15000+200000
+ 8575 strings out of 479624
+ 130952 string characters out of 2864197
+ 449617 words of memory out of 3000000
+ 25577 multiletter control sequences out of 15000+200000
  413317 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,6n,83p,1242b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -584,9 +584,9 @@ ur/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
 /pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKT
 eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on Petrarca.pdf (1 page, 58527 bytes).
+Output written on Petrarca.pdf (1 page, 59279 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 209 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
