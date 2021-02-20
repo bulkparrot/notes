@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 FEB 2021 22:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  20 FEB 2021 14:21
 entering extended mode
 **./Petrarca.tex
 (Petrarca.tex
@@ -532,61 +532,119 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+(Petrarca.toc)
+\tf@toc=\write4
+\openout4 = `Petrarca.toc'.
+
 \c@estratto=\count292
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
-2.
+4.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 33.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--42
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--46
+Underfull \hbox (badness 10000) in paragraph at lines 40--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--50
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
 
  []
 
 [1
 
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-(Petrarca.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--101
+
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+104.
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
+
+ []
+
+[2] [3] (Petrarca.aux)
 Package rerunfilecheck Info: File `Petrarca.out' has not changed.
-(rerunfilecheck)             Checksum: 1F9F6D4AD02E717C2C327087662927D5;129.
+(rerunfilecheck)             Checksum: 1F2DCFBECA8C7ACA6CFB4BF0BF92CEDD;174.
  ) 
 Here is how much of TeX's memory you used:
- 8575 strings out of 479624
- 130952 string characters out of 2864197
- 449617 words of memory out of 3000000
- 25577 multiletter control sequences out of 15000+200000
- 413317 words of font info for 53 fonts, out of 3000000 for 9000
+ 8601 strings out of 479624
+ 131638 string characters out of 2864197
+ 454617 words of memory out of 3000000
+ 25591 multiletter control sequences out of 15000+200000
+ 413615 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,6n,83p,1242b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-bx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+ 78i,6n,83p,2037b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+it1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ecit1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
 ur/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on Petrarca.pdf (1 page, 59279 bytes).
+/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on Petrarca.pdf (3 pages, 77907 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
+ 267 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
