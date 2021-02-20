@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  20 FEB 2021 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  20 FEB 2021 21:45
 entering extended mode
 **./Petrarca.tex
 (Petrarca.tex
@@ -622,36 +622,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--107
  []
 
 [2] [3] (Petrarca.aux)
-
-Package rerunfilecheck Warning: File `Petrarca.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Petrarca.out':
-(rerunfilecheck)             Before: 1F2DCFBECA8C7ACA6CFB4BF0BF92CEDD;174
-(rerunfilecheck)             After:  304671410E755DF11B0E191B6260FEE2;230.
+Package rerunfilecheck Info: File `Petrarca.out' has not changed.
+(rerunfilecheck)             Checksum: 304671410E755DF11B0E191B6260FEE2;230.
  ) 
 Here is how much of TeX's memory you used:
- 8604 strings out of 479624
- 131674 string characters out of 2864197
- 454617 words of memory out of 3000000
- 25592 multiletter control sequences out of 15000+200000
- 414391 words of font info for 55 fonts, out of 3000000 for 9000
+ 8615 strings out of 479624
+ 131796 string characters out of 2864197
+ 454620 words of memory out of 3000000
+ 25601 multiletter control sequences out of 15000+200000
+ 416090 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,6n,83p,1762b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 it1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\ecbx1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecit1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Tommaso\AppData\Local\MiKT
+pen/ec/dpi600\ecit1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKT
 eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\Ap
 pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\To
 mmaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on Petrarca.pdf (3 pages, 84485 bytes).
+Output written on Petrarca.pdf (3 pages, 86870 bytes).
 PDF statistics:
- 288 PDF objects out of 1000 (max. 8388607)
+ 297 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
