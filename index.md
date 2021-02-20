@@ -23,6 +23,7 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 
 ## Letteratura italiana
 -[Divina Commeida - Canti I III V](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Canti%20I%20III%20V.pdf)  
+-[Petrarca](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Petrarca.pdf)
 
 ## Letteratura latina
 
