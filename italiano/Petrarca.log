@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  21 FEB 2021 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  22 FEB 2021 19:09
 entering extended mode
 **./Petrarca.tex
 (Petrarca.tex
@@ -726,18 +726,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 265--268
 
  []
 
-[6] [7] (Petrarca.aux)
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+[7] [8] (Petrarca.aux)
 Package rerunfilecheck Info: File `Petrarca.out' has not changed.
-(rerunfilecheck)             Checksum: 1017E2888187CE6ADC81F48A7230FE12;671.
+(rerunfilecheck)             Checksum: E4310F6299F80B10FA7AC90394A3AC40;733.
  ) 
 Here is how much of TeX's memory you used:
- 8640 strings out of 479624
- 132091 string characters out of 2864197
+ 8643 strings out of 479624
+ 132117 string characters out of 2864197
  456686 words of memory out of 3000000
- 25610 multiletter control sequences out of 15000+200000
+ 25611 multiletter control sequences out of 15000+200000
  416425 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,6n,83p,1762b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,6n,83p,2311b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
 it1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\tcrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
@@ -750,9 +755,9 @@ pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\To
 mmaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\
 Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.
 pk>
-Output written on Petrarca.pdf (7 pages, 124867 bytes).
+Output written on Petrarca.pdf (8 pages, 134499 bytes).
 PDF statistics:
- 416 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 440 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
