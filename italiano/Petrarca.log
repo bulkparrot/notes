@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  22 FEB 2021 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  23 FEB 2021 01:20
 entering extended mode
 **./Petrarca.tex
 (Petrarca.tex
@@ -733,15 +733,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
-[7] [8] [9] (Petrarca.aux)
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
+
+ []
+
+[8] [9] (Petrarca.aux)
 Package rerunfilecheck Info: File `Petrarca.out' has not changed.
-(rerunfilecheck)             Checksum: A2A8188FEF49CC85F67F5DDA843B2C6C;963.
+(rerunfilecheck)             Checksum: 5372E4670E13DE91A6860D6679F8467D;1036.
  ) 
 Here is how much of TeX's memory you used:
- 8654 strings out of 479624
- 132233 string characters out of 2864197
- 454688 words of memory out of 3000000
- 25616 multiletter control sequences out of 15000+200000
+ 8656 strings out of 479624
+ 132265 string characters out of 2864197
+ 454692 words of memory out of 3000000
+ 25617 multiletter control sequences out of 15000+200000
  417111 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  78i,6n,83p,2311b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -758,9 +763,9 @@ mmaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\
 Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.
 pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
 crm1728.pk>
-Output written on Petrarca.pdf (9 pages, 144470 bytes).
+Output written on Petrarca.pdf (9 pages, 150938 bytes).
 PDF statistics:
- 480 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 495 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
