@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  1 FEB 2021 09:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  28 FEB 2021 12:20
 entering extended mode
 **"./Operone lac.tex"
 ("Operone lac.tex"
@@ -264,17 +264,17 @@ Package pdftex.def Info: operone no lac.png  used on input line 32.
 
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./operone.png
 > <./operone no lac.png>]
-<operone si lac.png, id=17, 415.5525pt x 124.0635pt>
-File: operone si lac.png Graphic file (type png)
-<use operone si lac.png>
-Package pdftex.def Info: operone si lac.png  used on input line 44.
-(pdftex.def)             Requested size: 317.07614pt x 94.66783pt.
-<operone no glu.png, id=18, 414.348pt x 141.52875pt>
+<operone no glu.png, id=17, 414.348pt x 141.52875pt>
 File: operone no glu.png Graphic file (type png)
 <use operone no glu.png>
-Package pdftex.def Info: operone no glu.png  used on input line 54.
+Package pdftex.def Info: operone no glu.png  used on input line 44.
 (pdftex.def)             Requested size: 317.07614pt x 108.30368pt.
- [2 <./operone si lac.png> <./operone no glu.png>]
+<operone si lac.png, id=18, 415.5525pt x 124.0635pt>
+File: operone si lac.png Graphic file (type png)
+<use operone si lac.png>
+Package pdftex.def Info: operone si lac.png  used on input line 56.
+(pdftex.def)             Requested size: 317.07614pt x 94.66783pt.
+ [2 <./operone no glu.png> <./operone si lac.png>]
 ("Operone lac.aux") ) 
 Here is how much of TeX's memory you used:
  3204 strings out of 479624
@@ -293,9 +293,9 @@ iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData
 AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Use
 rs/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb>
-Output written on "Operone lac.pdf" (2 pages, 161812 bytes).
+Output written on "Operone lac.pdf" (2 pages, 162235 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
+ 169 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
