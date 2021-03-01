@@ -6,11 +6,28 @@
 \usepackage{amssymb}
 \usepackage{makeidx}
 \usepackage{graphicx}
+
+\usepackage{xcolor}     % for colour
+\usepackage{mdframed}   % for framing
+
+
 \usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
 \author{Tommaso Severini}
 \title{Letteratura latina - Cesare}
 \begin{document}
 	\maketitle
 	
+	\newmdtheoremenv[%
+	linecolor=gray,leftmargin=60,%
+	rightmargin=40,
+	backgroundcolor=gray!40,%
+	innertopmargin=5pt,%
+	font=\ttfamily]{estratto}{Extract}[section]
 	
+	\section{De bello gallico, Liber I}
+		
+	\begin{quote}
+		Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. 2 Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. 3 Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, 4 proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt. Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. 5 Eorum una pars, quam Gallos obtinere dictum est, initium capit a flumine Rhodano, continetur Garumna flumine, Oceano, finibus Belgarum, attingit etiam ab Sequanis et Helvetiis flumen Rhenum, vergit ad septentriones. 6 Belgae ab extremis Galliae finibus oriuntur, pertinent ad inferiorem partem fluminis Rheni, spectant in septentrionem et orientem solem. 7 Aquitania a Garumna flumine ad Pyrenaeos montes et eam partem Oceani quae est ad Hispaniam pertinet; spectat inter occasum solis et septentriones.
+	\end{quote}
+
 \end{document}
