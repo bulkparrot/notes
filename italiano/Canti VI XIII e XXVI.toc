@@ -8,3 +8,5 @@
 \contentsline {subsubsection}{\numberline {1.4.1}Tema politico}{2}{subsubsection.1.4.1}%
 \contentsline {subsubsection}{\numberline {1.4.2}Tema morale}{2}{subsubsection.1.4.2}%
 \contentsline {subsubsection}{\numberline {1.4.3}Tema dottrinale}{2}{subsubsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.5}Analisi del testo}{3}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Versi 1-21}{3}{subsubsection.1.5.1}%

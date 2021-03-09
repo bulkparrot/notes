@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  9 MAR 2021 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  9 MAR 2021 16:50
 entering extended mode
 **"./Canti VI XIII e XXVI.tex"
 ("Canti VI XIII e XXVI.tex"
@@ -427,22 +427,22 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )) ("Canti VI XIII e XXVI.aux")
 \openout1 = `"Canti VI XIII e XXVI.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
@@ -465,7 +465,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 20.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -479,9 +479,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count291
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
  ("Canti VI XIII e XXVI.out") ("Canti VI XIII e XXVI.out")
 \@outlinefile=\write3
 \openout3 = `"Canti VI XIII e XXVI.out"'.
@@ -521,12 +521,12 @@ LaTeX Info: Redefining \nameref on input line 18.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -539,30 +539,75 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \c@estratto=\count292
  [1
 
-{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] ("Canti V
-I XIII e XXVI.aux")
+{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+9.
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 80.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--107
+
+ []
+
+[3] ("Canti VI XIII e XXVI.aux")
 Package rerunfilecheck Info: File `"Canti VI XIII e XXVI".out' has not changed.
 
-(rerunfilecheck)             Checksum: 3B7041FD8D4371E13869B019BF5005F3;646.
+(rerunfilecheck)             Checksum: 3064B3BEA13614C833553BE369083DD0;783.
  ) 
 Here is how much of TeX's memory you used:
- 8578 strings out of 479624
- 130904 string characters out of 2864197
- 454692 words of memory out of 3000000
- 25571 multiletter control sequences out of 15000+200000
- 415164 words of font info for 60 fonts, out of 3000000 for 9000
+ 8612 strings out of 479624
+ 131758 string characters out of 2864197
+ 454695 words of memory out of 3000000
+ 25596 multiletter control sequences out of 15000+200000
+ 415792 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,6n,83p,790b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,6n,83p,790b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-bx1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on "Canti VI XIII e XXVI.pdf" (2 pages, 76163 bytes).
+it1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ectt1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on "Canti VI XIII e XXVI.pdf" (3 pages, 97378 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
