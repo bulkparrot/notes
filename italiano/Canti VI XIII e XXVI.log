@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  8 MAR 2021 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  9 MAR 2021 09:19
 entering extended mode
 **"./Canti VI XIII e XXVI.tex"
 ("Canti VI XIII e XXVI.tex"
@@ -552,7 +552,7 @@ Here is how much of TeX's memory you used:
  25564 multiletter control sequences out of 15000+200000
  415164 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,6n,83p,1136b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,6n,83p,790b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
 bx1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
@@ -560,9 +560,9 @@ pen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
 ur/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
 /pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Local\MiKT
 eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on "Canti VI XIII e XXVI.pdf" (1 page, 54959 bytes).
+Output written on "Canti VI XIII e XXVI.pdf" (1 page, 55590 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
+ 194 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
