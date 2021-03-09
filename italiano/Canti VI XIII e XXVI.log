@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  9 MAR 2021 17:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  9 MAR 2021 18:09
 entering extended mode
 **"./Canti VI XIII e XXVI.tex"
 ("Canti VI XIII e XXVI.tex"
@@ -583,19 +583,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--108
 
  []
 
-[3] ("Canti VI XIII e XXVI.aux")
-Package rerunfilecheck Info: File `"Canti VI XIII e XXVI".out' has not changed.
 
-(rerunfilecheck)             Checksum: 3064B3BEA13614C833553BE369083DD0;783.
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--138
+
+ []
+
+[3] [4] ("Canti VI XIII e XXVI.aux")
+
+Package rerunfilecheck Warning: File `"Canti VI XIII e XXVI".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"Canti VI XIII e XXVI".out':
+(rerunfilecheck)             Before: 3064B3BEA13614C833553BE369083DD0;783
+(rerunfilecheck)             After:  A9C0F40B496AC6A730FFFD30C597A8C1;854.
  ) 
 Here is how much of TeX's memory you used:
- 8613 strings out of 479624
- 131785 string characters out of 2864197
+ 8616 strings out of 479624
+ 131822 string characters out of 2864197
  454744 words of memory out of 3000000
  25597 multiletter control sequences out of 15000+200000
  415792 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,6n,83p,975b,375s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 78i,6n,83p,1720b,480s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
 it1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
 pi600\ectt1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
@@ -605,9 +640,9 @@ ur/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
 eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Lo
 cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\Ap
 pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on "Canti VI XIII e XXVI.pdf" (3 pages, 99366 bytes).
+Output written on "Canti VI XIII e XXVI.pdf" (4 pages, 106762 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
