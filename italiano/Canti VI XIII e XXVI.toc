@@ -7,8 +7,10 @@
 \contentsline {subsection}{\numberline {1.4}Tematiche}{2}{subsection.1.4}%
 \contentsline {subsubsection}{\numberline {1.4.1}Tema politico}{2}{subsubsection.1.4.1}%
 \contentsline {subsubsection}{\numberline {1.4.2}Tema morale}{2}{subsubsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.3}Tema dottrinale}{2}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.3}Tema dottrinale}{3}{subsubsection.1.4.3}%
 \contentsline {subsection}{\numberline {1.5}Analisi del testo}{3}{subsection.1.5}%
 \contentsline {subsubsection}{\numberline {1.5.1}Versi 1-21}{3}{subsubsection.1.5.1}%
 \contentsline {subsubsection}{\numberline {1.5.2}versi 22-39}{3}{subsubsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.3}Versi 40-63}{4}{subsubsection.1.5.3}%
+\contentsline {subsubsection}{\numberline {1.5.4}Versi 64-84}{5}{subsubsection.1.5.4}%
 \contentsline {section}{\numberline {2}Canto X}{5}{section.2}%
