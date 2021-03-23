@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  23 MAR 2021 15:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  23 MAR 2021 17:28
 entering extended mode
 **./Cesare.tex
 (Cesare.tex
@@ -425,7 +425,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--177
 
  []
 
-[3] [4] (Cesare.aux) ) 
+[3] [4] [5] (Cesare.aux) ) 
 Here is how much of TeX's memory you used:
  5195 strings out of 479624
  77107 string characters out of 2864197
@@ -433,20 +433,20 @@ Here is how much of TeX's memory you used:
  22269 multiletter control sequences out of 15000+200000
  414486 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,6n,94p,1299b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecti1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\f
-onts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\
-MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Tommaso\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Tommas
-o\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\User
-s\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> 
-<C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
-728.pk>
-Output written on Cesare.pdf (4 pages, 88003 bytes).
+ 91i,6n,94p,1792b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Tommaso\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\To
+mmaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\
+Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.
+pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+crm1728.pk>
+Output written on Cesare.pdf (5 pages, 91689 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
+ 274 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
