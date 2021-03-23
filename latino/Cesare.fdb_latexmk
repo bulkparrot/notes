@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1616439577 "Cesare.tex" "Cesare.pdf" "Cesare" 1616439584
+["pdflatex"] 1616509566 "Cesare.tex" "Cesare.pdf" "Cesare" 1616509572
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1611423097 25420 a665e56e9950effc2865f044eef6af35 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1611426238 31952 c529499776632f50a06755e688659c2e ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1611423792 40136 8ed2cba201b0ca9d70b68f254a46a9c9 ""
@@ -84,9 +84,9 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463131981 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1602238298 2275 d29aca6fd67823551cb07584e3681d5d ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1602238298 20688 beaddf14d96104d4bf016523be5395c5 ""
-  "Cesare.aux" 1616439583 2463 44faf0d8a953799bfdeedf2877b8a6b3 "pdflatex"
-  "Cesare.tex" 1616439575 9675 e71707fa5dc5e904eb9fb301b2330734 ""
+  "Cesare.aux" 1616509572 2799 d8a69e15269fb32706df1c55f485efbf "pdflatex"
+  "Cesare.tex" 1616509557 11758 1650adfb65ca4dfbc0471e3c3c0f2dad ""
   (generated)
   "Cesare.aux"
-  "Cesare.pdf"
   "Cesare.log"
+  "Cesare.pdf"
