@@ -13,7 +13,7 @@
 \title{Fisica - Cinetica rotazionale}
 \begin{document}
 	\maketitle
-	
+
 		%% mdframed definizione
 	\mdfdefinestyle{theoremstyle}{%
 		linecolor=orange,linewidth=2pt,%
@@ -22,36 +22,48 @@
 		innertopmargin=\topskip,
 	}
 	\mdtheorem[style=theoremstyle]{definition}{Definition}
-	
+
 	\section{Energia cinetica rotazionale}
-	
+
 	Sappiamo che qualsiasi corpo che si muove di moto traslatorio possiede un'energia cinetica. Ad esempio, un corpo di massa \textit{m} e in movimento a una velocità costante \textit{v}, la sua energia cinetica sarà data dall'equazione $\frac{1}{2}mv^2$.
 	Nel caso di un corpo in rotazone, però, ogni particella che fa parte del corpo si muove a velocità tangenziale diversa a seconda della sia distanza dal raggio. Nonostante ciò, la velocità angolare è la stessa per tutti i corpi e, provando a sostituire la velocità tangenziale \textit{v} con la sua espressione in funzione della velocità angolare $\omega$, otteniamo la seguente formula
-	
+
 	\begin{equation}
 		K = \frac{1}{2}mv^2 = \frac{1}{2}m (\omega r)^2 = \frac{1}{2}mr^2\omega^2
-	\end{equation} 
+	\end{equation}
 
-	Notiamo che questa forma differisce di poco dalla forma classica dell'energia cinetica traslatoria, con la sola differenza della velocità angolare al posto di quella tangenziale e la sostituzione della massa del corpo con la grandezza $mr^2$, che definisce la tendenza di un corpo a subire cambiamenti nel suo moto. Questa "inerzia di movimento" prende il nome di \textbf{momento di inerzia I}. Infatti, più I è grande maggior sarà la resistenza del corpo alla variazione del suo moto.  
-	
+	Notiamo che questa forma differisce di poco dalla forma classica dell'energia cinetica traslatoria, con la sola differenza della velocità angolare al posto di quella tangenziale e la sostituzione della massa del corpo con la grandezza $mr^2$, che definisce la tendenza di un corpo a subire cambiamenti nel suo moto. Questa "inerzia di movimento" prende il nome di \textbf{momento di inerzia I}. Infatti, più I è grande maggior sarà la resistenza del corpo alla variazione del suo moto.
+
 	\begin{definition}[Energia cinetica di rotazione]
 		$\frac{1}{2}I \omega^2$ dove I è il momento di inerzia del corpo, mentre $\omega$ è la velocità angolare del corpo.
 	\end{definition}
 
 	\section{Momento di inerzia}
-	
+
 	Considerando un corpo non puntiforme, possiamo calcolare il suo momento di inerzia dividendolo in masse più piccole e trovando il momento di inerzia di ognuno per poi sommarli. In formule:
-	
+
 	\begin{definition}[Momento di inerzia]
-		$I = \sum m_i r_i^2$
+		\begin{equation}
+			I = \sum m_i r_i^2
+		\end{equation}
+	\end{definition}
+
+	\subsection{Calcolo alternativo del momento d'inerzia}
+
+	Il momento d'inerzia rispetto ad un asse x si ottiene sommando al momento di inerzia iniziale rispetto al baricentro il prodotto tra la massa del corpo stesso e il quadrato della distanza tra l'asse x e il baficentro del corpo.
+
+	\begin{definition}[Teorema di Huygens Steiner]
+		\begin{equation}
+		I_x = I_{CM} + md^2
+		\end{equation}
 	\end{definition}
 
 	\subsection{Momento di inerzia di alcuni oggetti}
-	
+
 	Ogni corpo presenta la sua quantità di moto a seconda della sua forma, distribuzione del peso e asse di rotazione. Di seguito è riportata la dimostrazione della formula del momento di inerzia di un disco:
-	
+
 	\begin{equation}
-		\int_{0}^{R} mr dr = m \int_{0}^{R} r dr = m [\frac{r^2}{2}]_0^R = \frac{1}{2}mr^2  
-	\end{equation} 
-	
+		\int_{0}^{R} mr dr = m \int_{0}^{R} r dr = m [\frac{r^2}{2}]_0^R = \frac{1}{2}mr^2
+	\end{equation}
+
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  17 MAR 2021 15:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  24 MAR 2021 11:11
 entering extended mode
 **"./Cinematica rotazionale.tex"
 ("Cinematica rotazionale.tex"
@@ -430,12 +430,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
 ("Cinematica rotazionale.aux") ) 
 Here is how much of TeX's memory you used:
  5213 strings out of 479624
  77570 string characters out of 2864197
- 379117 words of memory out of 3000000
+ 381117 words of memory out of 3000000
  22282 multiletter control sequences out of 15000+200000
  415850 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -454,9 +454,9 @@ fonts/cm/cmex10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1
 fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Tommaso/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on "Cinematica rotazionale.pdf" (1 page, 94221 bytes).
+Output written on "Cinematica rotazionale.pdf" (2 pages, 100642 bytes).
 PDF statistics:
- 189 PDF objects out of 1000 (max. 8388607)
+ 205 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
