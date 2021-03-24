@@ -1,10 +1,11 @@
 # Fdb version 3
-["pdflatex"] 1616533269 "platone.tex" "platone.pdf" "platone" 1616533286
+["pdflatex"] 1616598738 "platone.tex" "platone.pdf" "platone" 1616598741
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1611423097 25420 a665e56e9950effc2865f044eef6af35 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1611423792 40136 8ed2cba201b0ca9d70b68f254a46a9c9 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1611422666 23808 73b5243d7752b088cf3a0d0be111a92b ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1611422668 28440 2d4dfcff6365baf106969f148f8db152 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk" 1611422669 42516 acf88168b52aff0101a86cca4b9b66ec ""
+  "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk" 1611598893 31892 7384075a8e4142acfdc342bebc2e5f29 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1611522888 11548 289573d6279e6c6438c3d2d45696fa19 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1611092236 9277806 45ab1f0075aae5d0edb2ef7c150c6f7f ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1616254284 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -14,6 +15,7 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993058526 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993058528 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1728.tfm" 993058528 3168 11457c8185ce67fb79662ba8b03d6db1 ""
+  "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1000.tfm" 993058720 2840 5606e1a681c23005308de9d61c09a8ff ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993058908 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -58,8 +60,8 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1601741526 2677 e3b24ff953e5b58d924f163d25380312 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1601741526 4093 d7fa7d81d2870d509d25b17d0245e735 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1600952516 23704 02c466ff883953a445c97e55638005fc ""
-  "platone.aux" 1616533272 364 99460ae65c9eb30943e5c1eb5a0babe1 "pdflatex"
-  "platone.tex" 1616533260 2680 58cbb32404a44f3d885cd5fe3f678bc9 ""
+  "platone.aux" 1616598740 462 dc115eba71555fe2a6204f97a5cbb775 "pdflatex"
+  "platone.tex" 1616598733 4064 29bc4d4d4e1251d0972d1bb426716a7b ""
   (generated)
   "platone.pdf"
   "platone.aux"
