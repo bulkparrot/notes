@@ -1,0 +1,67 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{commath}
+\usepackage{makeidx}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,
+	urlcolor=red,
+}
+
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{mdframed}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{width=3in,compat=1.9}
+\usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
+\author{Tommaso Severini}
+\title{Geometria analitica - Parabola}
+
+\begin{document}
+	\maketitle
+
+  %% mdframed definizione
+\mdfdefinestyle{theoremstyle}{%
+  linecolor=orange,linewidth=2pt,%
+  frametitlerule=true,%
+  frametitlebackgroundcolor=gray!20,
+  innertopmargin=\topskip,
+}
+\mdtheorem[style=theoremstyle]{definition}{Definition}
+
+\begin{definition}[Parabola]
+  Dati nel piano una retta $d$ e un punto $F \notin d$, si dice \textbf{parabola} di fuoco F e direttrice d il luogo geometrico dei punti dep piano equidistanti da F e da d.
+\end{definition}
+
+\section{Paraboal con vertice nell'origine}
+
+Consideriamo il caso di una parabola avente vertice nell'origine degli assi e asse parallelo all'asse y. Sia la distanza tra il fuoco F e l'origine O uguale a $k$. Le coordinate del fuoco saranno quindi $F(0; k)$. Poichè sappiamo che anche la direttrice dovrà avere distanza $k$ dall'origine e dovrà essere perpendicolare all'asse y, essa avrà equazione $y=-k$.\\
+
+Detto ciò consideriamo un punto generico $P(x; y)$ appartenente alla parabola e poniamo la sua distanza da F uguale a quella dalla direttrice $d$.
+
+\begin{equation}
+  d(P;F) = d(P;d)
+\end{equation}
+\begin{equation}
+  \sqrt{x^2+(y-k)^2}=\abs{y+k}
+\end{equation}
+
+\begin{equation}
+  x^2+y^2-2ky+k^2= y^2+2ky+k^2
+\end{equation}
+
+Da ciò si ottiene \textbf{l'equazione di una paarbola con vertice nell'origine e parallela all'asse y}:
+
+\begin{equation}
+    y= \frac{1}{4k}x^2
+\end{equation}
+
+\end{document}
