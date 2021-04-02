@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1617175767 "Cinematica rotazionale.tex" "Cinematica rotazionale.pdf" "Cinematica rotazionale" 1617175770
+["pdflatex"] 1617355821 "Cinematica rotazionale.tex" "Cinematica rotazionale.pdf" "Cinematica rotazionale" 1617355824
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1611426697 25420 a665e56e9950effc2865f044eef6af35 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1611429838 31952 c529499776632f50a06755e688659c2e ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1611427392 40136 8ed2cba201b0ca9d70b68f254a46a9c9 ""
@@ -40,6 +40,7 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580393758 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575574700 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty" 1576437238 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
@@ -89,9 +90,9 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1602241898 2275 d29aca6fd67823551cb07584e3681d5d ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1602241898 20688 beaddf14d96104d4bf016523be5395c5 ""
-  "Cinematica rotazionale.aux" 1617175770 815 7e9fe9c6c06da6b0ae7fd743e86fcd09 "pdflatex"
-  "Cinematica rotazionale.tex" 1617175762 3880 4fdf3e7f4d164814e7fc6e00887e9c67 ""
+  "Cinematica rotazionale.aux" 1617355823 815 7e9fe9c6c06da6b0ae7fd743e86fcd09 "pdflatex"
+  "Cinematica rotazionale.tex" 1617355820 4695 1f6a276b64cc3065dd25f92e8862ea37 ""
   (generated)
   "Cinematica rotazionale.log"
-  "Cinematica rotazionale.aux"
   "Cinematica rotazionale.pdf"
+  "Cinematica rotazionale.aux"
