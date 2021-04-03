@@ -288,7 +288,10 @@ INPUT C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1
 INPUT C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 OUTPUT platone.pdf
 INPUT C:\Users\Tommaso\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT platone.aux
+INPUT C:\Users\Tommaso\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
+INPUT C:\Users\Tommaso\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
 INPUT C:\Users\Tommaso\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
 INPUT C:\Users\Tommaso\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk
 INPUT C:\Users\Tommaso\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
