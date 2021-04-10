@@ -1,13 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1618038348 "Cicerone.tex" "Cicerone.pdf" "Cicerone" 1618038350
+["pdflatex"] 1618091192 "Cicerone.tex" "Cicerone.pdf" "Cicerone" 1618091194
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1611426266 23808 73b5243d7752b088cf3a0d0be111a92b ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1611426268 28440 2d4dfcff6365baf106969f148f8db152 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk" 1611426269 42516 acf88168b52aff0101a86cca4b9b66ec ""
+  "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk" 1611602493 31892 7384075a8e4142acfdc342bebc2e5f29 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1611095836 9277806 45ab1f0075aae5d0edb2ef7c150c6f7f ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1616691916 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1728.tfm" 993062128 3168 11457c8185ce67fb79662ba8b03d6db1 ""
+  "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecti1000.tfm" 993062320 2840 5606e1a681c23005308de9d61c09a8ff ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233955454 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -51,9 +53,9 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1601745126 2677 e3b24ff953e5b58d924f163d25380312 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1601745126 4093 d7fa7d81d2870d509d25b17d0245e735 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1600956116 23704 02c466ff883953a445c97e55638005fc ""
-  "Cicerone.aux" 1618038350 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Cicerone.tex" 1618038338 398 0ea7757f876b8e60c0c8fa84f0705ed3 ""
+  "Cicerone.aux" 1618091193 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Cicerone.tex" 1618091191 1280 114cbd9abd5db34613094acac7f71fea ""
   (generated)
   "Cicerone.pdf"
-  "Cicerone.aux"
   "Cicerone.log"
+  "Cicerone.aux"
