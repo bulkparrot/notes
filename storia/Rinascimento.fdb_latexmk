@@ -1,12 +1,15 @@
 # Fdb version 3
-["pdflatex"] 1617094223 "Rinascimento.tex" "Rinascimento.pdf" "Rinascimento" 1617094225
+["pdflatex"] 1618587748 "Rinascimento.tex" "Rinascimento.pdf" "Rinascimento" 1618587941
+  "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1611427392 40136 8ed2cba201b0ca9d70b68f254a46a9c9 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk" 1611426266 23808 73b5243d7752b088cf3a0d0be111a92b ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk" 1611426268 28440 2d4dfcff6365baf106969f148f8db152 ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk" 1611426269 42516 acf88168b52aff0101a86cca4b9b66ec ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1611095836 9277806 45ab1f0075aae5d0edb2ef7c150c6f7f ""
   "C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1616691916 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecbx1440.tfm" 993061960 3196 0b37fa3083e15c57cfa8c4ff52f2807a ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1000.tfm" 993062122 3148 7e594c8240c71e432203f65ab5f95a51 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
+  "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1440.tfm" 993062128 3168 3bd7b08ba4330af81521911744311212 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1728.tfm" 993062128 3168 11457c8185ce67fb79662ba8b03d6db1 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -51,9 +54,9 @@
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1601745126 2677 e3b24ff953e5b58d924f163d25380312 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1601745126 4093 d7fa7d81d2870d509d25b17d0245e735 ""
   "C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1600956116 23704 02c466ff883953a445c97e55638005fc ""
-  "Rinascimento.aux" 1617094225 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Rinascimento.tex" 1617094213 403 e303209c20852c87ba85f18afc04d0eb ""
+  "Rinascimento.aux" 1618587749 129 3e486c60397cb6e44788bf0df3059d44 "pdflatex"
+  "Rinascimento.tex" 1617202380 431 ce58a9b1000b5631dd8cad024a7820e1 ""
   (generated)
-  "Rinascimento.aux"
   "Rinascimento.pdf"
   "Rinascimento.log"
+  "Rinascimento.aux"
