@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  16 APR 2021 23:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 APR 2021 11:45
 entering extended mode
 **./Rinascimento.tex
 (Rinascimento.tex
@@ -161,12 +161,6 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
-
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
-evision.tex)
-Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
-
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -188,6 +182,12 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
 )
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
+evision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
 z.sty
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
@@ -628,28 +628,36 @@ File: tikzlibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 braryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen279
+\WF@size=\dimen280
+\c@WF@wrappedlines=\count301
+\WF@box=\box61
+\WF@everypar=\toks39
+Package: wrapfig 2003/01/31  v 3.6
+)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count301
-\l__pdf_internal_box=\box61
+\l__kernel_color_stack_int=\count302
+\l__pdf_internal_box=\box62
 ) (Rinascimento.aux)
 \openout1 = `Rinascimento.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -685,31 +693,31 @@ LaTeX Font Info:    ... okay on input line 21.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 21.
-LaTeX Info: Redefining \it@ccap on input line 21.
+LaTeX Info: Redefining \it@ocap on input line 23.
+LaTeX Info: Redefining \it@ccap on input line 23.
 
 File italian.ldf warning: 
 italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 21.
+italian.ldf    on input line 23.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen279
-\scratchbox=\box62
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen280
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count303
+\scratchdimen=\dimen281
+\scratchbox=\box63
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen282
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks41
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
 -base.sty
@@ -723,7 +731,7 @@ enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
 [1
 
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
@@ -731,22 +739,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 Capitolo 1.
 [1
 
+]
+Capitolo 2.
+<vasco da gama.png, id=17, 1027.84pt x 840.13875pt>
+File: vasco da gama.png Graphic file (type png)
+<use vasco da gama.png>
+Package pdftex.def Info: vasco da gama.png  used on input line 71.
+(pdftex.def)             Requested size: 180.67499pt x 147.68027pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+[2
+
+ <./vasco da gama.png>] (Rinascimento.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3]) [4
+
 ] (Rinascimento.aux) ) 
 Here is how much of TeX's memory you used:
- 24293 strings out of 479624
- 614947 string characters out of 2864197
- 1043855 words of memory out of 3000000
- 41098 multiletter control sequences out of 15000+200000
- 405556 words of font info for 34 fonts, out of 3000000 for 9000
+ 24397 strings out of 479624
+ 616398 string characters out of 2864197
+ 1050855 words of memory out of 3000000
+ 41191 multiletter control sequences out of 15000+200000
+ 406906 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,5n,94p,746b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 97i,11n,94p,970b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tommaso/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Rinascimento.pdf (3 pages, 44222 bytes).
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Tommaso/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/To
+mmaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Rinascimento.pdf (6 pages, 150778 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

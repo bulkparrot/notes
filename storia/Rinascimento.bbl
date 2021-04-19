@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{o2005philip}
+\bibinfo{author}{O'Brien, P.}
+\newblock \emph{\bibinfo{title}{Philip's atlas of world history}}
+  (\bibinfo{publisher}{George Philip}, \bibinfo{year}{2005}).
+
+\bibitem{parry2010age}
+\bibinfo{author}{Parry, J.~H.}
+\newblock \emph{\bibinfo{title}{The Age of Reconnaissance: Discovery,
+  Exporation and Settlement, 1450-1650}} (\bibinfo{publisher}{Hachette UK},
+  \bibinfo{year}{2010}).
+
+\end{thebibliography}
