@@ -10,10 +10,28 @@
 \newblock \emph{\bibinfo{title}{Philip's atlas of world history}}
   (\bibinfo{publisher}{George Philip}, \bibinfo{year}{2005}).
 
+\bibitem{robertson1917vespucci}
+\bibinfo{author}{Robertson, J.~A.}
+\newblock \bibinfo{title}{Vespucci reprints, texts and studies. volumes ii.,
+  iv., v., vi., vii. lettera di amerigo vespucci delle isole nuovamente trovate
+  in quattro suoi viaggi [1504]} (\bibinfo{year}{1917}).
+
+\bibitem{hartig1910magellan}
+\bibinfo{author}{Hartig}.
+\newblock \bibinfo{title}{Ferdinand magellan} (\bibinfo{year}{1910}).
+
 \bibitem{parry2010age}
 \bibinfo{author}{Parry, J.~H.}
 \newblock \emph{\bibinfo{title}{The Age of Reconnaissance: Discovery,
   Exporation and Settlement, 1450-1650}} (\bibinfo{publisher}{Hachette UK},
   \bibinfo{year}{2010}).
+
+\bibitem{crosby1967conquistador}
+\bibinfo{author}{Crosby, A.~W.}
+\newblock \bibinfo{title}{Conquistador y pestilencia: the first new world
+  pandemic and the fall of the great indian empires}.
+\newblock \emph{\bibinfo{journal}{Hispanic American Historical Review}}
+  \textbf{\bibinfo{volume}{47}}, \bibinfo{pages}{321--337}
+  (\bibinfo{year}{1967}).
 
 \end{thebibliography}

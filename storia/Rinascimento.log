@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 APR 2021 11:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 APR 2021 23:34
 entering extended mode
 **./Rinascimento.tex
 (Rinascimento.tex
@@ -753,7 +753,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
 [2
 
- <./vasco da gama.png>] (Rinascimento.bbl
+ <./vasco da gama.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -762,26 +762,35 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3]) [4
+[3] (Rinascimento.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4]) [5
 
 ] (Rinascimento.aux) ) 
 Here is how much of TeX's memory you used:
- 24397 strings out of 479624
- 616398 string characters out of 2864197
- 1050855 words of memory out of 3000000
- 41191 multiletter control sequences out of 15000+200000
- 406906 words of font info for 38 fonts, out of 3000000 for 9000
+ 24399 strings out of 479624
+ 616450 string characters out of 2864197
+ 1054855 words of memory out of 3000000
+ 41193 multiletter control sequences out of 15000+200000
+ 406560 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,11n,94p,970b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 97i,11n,94p,1597b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tommaso/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Tommaso/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/To
 mmaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Rinascimento.pdf (6 pages, 150778 bytes).
+Output written on Rinascimento.pdf (7 pages, 156636 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 50 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
