@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  19 APR 2021 23:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  20 APR 2021 18:54
 entering extended mode
 **./Rinascimento.tex
 (Rinascimento.tex
@@ -644,20 +644,20 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) (Rinascimento.aux)
 \openout1 = `Rinascimento.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -693,15 +693,15 @@ LaTeX Font Info:    ... okay on input line 23.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 23.
-LaTeX Info: Redefining \it@ccap on input line 23.
+LaTeX Info: Redefining \it@ocap on input line 25.
+LaTeX Info: Redefining \it@ccap on input line 25.
 
 File italian.ldf warning: 
 italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 23.
+italian.ldf    on input line 25.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
@@ -731,29 +731,78 @@ enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
 [1
 
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
 
  []
 
 [1]
 Capitolo 1.
+<LatinEmpire2.png, id=14, 1721.43124pt x 905.3825pt>
+File: LatinEmpire2.png Graphic file (type png)
+<use LatinEmpire2.png>
+Package pdftex.def Info: LatinEmpire2.png  used on input line 61.
+(pdftex.def)             Requested size: 252.94499pt x 133.02469pt.
 [1
 
-]
-Capitolo 2.
-<vasco da gama.png, id=17, 1027.84pt x 840.13875pt>
-File: vasco da gama.png Graphic file (type png)
-<use vasco da gama.png>
-Package pdftex.def Info: vasco da gama.png  used on input line 71.
-(pdftex.def)             Requested size: 180.67499pt x 147.68027pt.
+ <./LatinEmpire2.png>]
+<costantinopoli.png, id=18, 963.6pt x 869.2475pt>
+File: costantinopoli.png Graphic file (type png)
+<use costantinopoli.png>
+Package pdftex.def Info: costantinopoli.png  used on input line 84.
+(pdftex.def)             Requested size: 216.81pt x 195.57225pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
+Underfull \hbox (badness 1102) in paragraph at lines 88--89
+\OT1/cmr/m/n/10.95 trup-pe mol-to piu in-gen-te, in-ten-zio-na-to a pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
-[2
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2 <./costantinopoli.png>]
+Capitolo 2.
+<vasco da gama.png, id=22, 1027.84pt x 840.13875pt>
+File: vasco da gama.png Graphic file (type png)
+<use vasco da gama.png>
+Package pdftex.def Info: vasco da gama.png  used on input line 107.
+(pdftex.def)             Requested size: 180.67499pt x 147.68027pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+[3
 
  <./vasco da gama.png>]
+<colombo.jpg, id=26, 4281.9975pt x 5180.35374pt>
+File: colombo.jpg Graphic file (type jpg)
+<use colombo.jpg>
+Package pdftex.def Info: colombo.jpg  used on input line 122.
+(pdftex.def)             Requested size: 180.67499pt x 218.56145pt.
+
+Underfull \hbox (badness 3623) in paragraph at lines 123--123
+[]\OT1/cmr/m/n/10.95 Figura 2.2: \OT1/cmr/m/n/10 Ri-trat-to di Cri-sto-fo-ro
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 123--123
+\OT1/cmr/m/n/10 Co-lom-bo, di Se-ba-stia-no del Piom-bo
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -762,7 +811,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3] (Rinascimento.bbl
+[4 <./colombo.jpg>]
+<tordesillas.png, id=31, 361.35pt x 185.7339pt>
+File: tordesillas.png Graphic file (type png)
+<use tordesillas.png>
+Package pdftex.def Info: tordesillas.png  used on input line 144.
+(pdftex.def)             Requested size: 328.82707pt x 169.01811pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -771,26 +826,74 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4]) [5
+[5 <./tordesillas.png>]
+<conquistadores.jpg, id=38, 1770.615pt x 2427.0675pt>
+File: conquistadores.jpg Graphic file (type jpg)
+<use conquistadores.jpg>
+Package pdftex.def Info: conquistadores.jpg  used on input line 155.
+(pdftex.def)             Requested size: 180.67499pt x 247.6465pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6 <./conquistadores.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+<indios.jpg, id=42, 676.4472pt x 500.8311pt>
+File: indios.jpg Graphic file (type jpg)
+<use indios.jpg>
+Package pdftex.def Info: indios.jpg  used on input line 182.
+(pdftex.def)             Requested size: 180.67499pt x 133.76657pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+(Rinascimento.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7 <./indios.jpg>]) [8
 
 ] (Rinascimento.aux) ) 
 Here is how much of TeX's memory you used:
- 24399 strings out of 479624
- 616450 string characters out of 2864197
- 1054855 words of memory out of 3000000
- 41193 multiletter control sequences out of 15000+200000
- 406560 words of font info for 37 fonts, out of 3000000 for 9000
+ 24450 strings out of 479624
+ 617294 string characters out of 2864197
+ 1053855 words of memory out of 3000000
+ 41243 multiletter control sequences out of 15000+200000
+ 406906 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,11n,94p,1597b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 97i,11n,94p,1591b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Tommaso/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Tommaso/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/To
 mmaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Rinascimento.pdf (7 pages, 156636 bytes).
+Output written on Rinascimento.pdf (10 pages, 16192091 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

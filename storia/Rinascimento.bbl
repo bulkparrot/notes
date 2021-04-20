@@ -34,4 +34,14 @@
   \textbf{\bibinfo{volume}{47}}, \bibinfo{pages}{321--337}
   (\bibinfo{year}{1967}).
 
+\bibitem{milazzo2014democrate}
+\bibinfo{author}{Milazzo, L.}
+\newblock \bibinfo{title}{Il democrate secondo di juan gin{\'e}s de
+  sep{\'u}lveda e l'ortodossia di salamanca}  (\bibinfo{year}{2014}).
+
+\bibitem{de2015brevissima}
+\bibinfo{author}{De~Las~Casas, B.}
+\newblock \emph{\bibinfo{title}{Brevissima relazione della distruzione delle
+  Indie}} (\bibinfo{publisher}{Edizioni Mondadori}, \bibinfo{year}{2015}).
+
 \end{thebibliography}
