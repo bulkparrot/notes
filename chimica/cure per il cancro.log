@@ -1,0 +1,942 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  25 APR 2021 12:48
+entering extended mode
+**"./cure per il cancro.tex"
+("cure per il cancro.tex"
+LaTeX2e <2020-10-01> patch level 3
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen147
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks19
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks20
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks21
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/12/16 3.52 The Babel package
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count266
+\U@D=\dimen156
+\l@babelnohyphens=\language79
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count267
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian
+.ldf
+Language: italian 2020/05/21 v.1.4.04 Italian support for the babel system
+\it@lettering=\count268
+\it@doublequoteactive=\count269
+\it@ISOcompliance=\count270
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
+evision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
+z.sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
+y
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen159
+\pgfutil@tempdimb=\dimen160
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common-lists.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def
+\pgfutil@abb=\box49
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ysfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen161
+\pgf@y=\dimen162
+\pgf@xa=\dimen163
+\pgf@ya=\dimen164
+\pgf@xb=\dimen165
+\pgf@yb=\dimen166
+\pgf@xc=\dimen167
+\pgf@yc=\dimen168
+\pgf@xd=\dimen169
+\pgf@yd=\dimen170
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count276
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex
+\pgfmath@dimen=\dimen171
+\pgfmath@count=\count279
+\pgfmath@box=\box50
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex
+\c@pgfmathroundto@lastzeros=\count280
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen172
+\pgf@picmaxx=\dimen173
+\pgf@picminy=\dimen174
+\pgf@picmaxy=\dimen175
+\pgf@pathminx=\dimen176
+\pgf@pathmaxx=\dimen177
+\pgf@pathminy=\dimen178
+\pgf@pathmaxy=\dimen179
+\pgf@xx=\dimen180
+\pgf@xy=\dimen181
+\pgf@yx=\dimen182
+\pgf@yy=\dimen183
+\pgf@zx=\dimen184
+\pgf@zy=\dimen185
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen186
+\pgf@path@lasty=\dimen187
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen188
+\pgf@shorten@start@additional=\dimen189
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box51
+\pgf@hbox=\box52
+\pgf@layerbox@main=\box53
+\pgf@picture@serial@count=\count281
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen190
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen191
+\pgf@pt@y=\dimen192
+\pgf@pt@temp=\dimen193
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen194
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen195
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box54
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box55
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen196
+\pgf@nodesepend=\dimen197
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
+sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
+r.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex)
+\pgffor@iter=\dimen198
+\pgffor@skip=\dimen199
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz\tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count284
+\pgfplotmarksize=\dimen256
+)
+\tikz@lastx=\dimen257
+\tikz@lasty=\dimen258
+\tikz@lastxsaved=\dimen259
+\tikz@lastysaved=\dimen260
+\tikz@lastmovetox=\dimen261
+\tikz@lastmovetoy=\dimen262
+\tikzleveldistance=\dimen263
+\tikzsiblingdistance=\dimen264
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count285
+\tikznumberofchildren=\count286
+\tikznumberofcurrentchild=\count287
+\tikz@fig@count=\count288
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+lematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count289
+\pgfmatrixcurrentcolumn=\count290
+\pgf@matrix@numberofcolumns=\count291
+)
+\tikz@expandcount=\count292
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.c
+ode.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+re.code.tex
+\t@pgfplots@toka=\toks35
+\t@pgfplots@tokb=\toks36
+\t@pgfplots@tokc=\toks37
+\pgfplots@tmpa=\dimen265
+\c@pgfplots@coordindex=\count293
+\c@pgfplots@scanlineindex=\count294
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplo
+tssysgeneric.code.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfpl
+otslibrary.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryfpu.code.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructure.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructureext.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count295
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsmatrix.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\p
+gfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count296
+\t@pgfplotstable@a=\toks38
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsdeque.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.data.code.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.verb.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfli
+brarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count297
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolormap.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolor.code.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsst
+ackedplots.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotspl
+othandlers.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplothandler.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplotimage.code.tex)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.s
+caling.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+ordprocessing.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.e
+rrorbars.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.m
+arkers.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsti
+cks.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.p
+aths.code.tex)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+ledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen266
+\pgfdecoratedremainingdistance=\dimen267
+\pgfdecoratedinputsegmentcompleteddistance=\dimen268
+\pgfdecoratedinputsegmentremainingdistance=\dimen269
+\pgf@decorate@distancetomove=\dimen270
+\pgf@decorate@repeatstate=\count298
+\pgfdecorationsegmentamplitude=\dimen271
+\pgfdecorationsegmentlength=\dimen272
+)
+\tikz@lib@dec@box=\box60
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count299
+\pgfplots@xmin@reg=\dimen273
+\pgfplots@xmax@reg=\dimen274
+\pgfplots@ymin@reg=\dimen275
+\pgfplots@ymax@reg=\dimen276
+\pgfplots@zmin@reg=\dimen277
+\pgfplots@zmax@reg=\dimen278
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen279
+\WF@size=\dimen280
+\c@WF@wrappedlines=\count300
+\WF@box=\box61
+\WF@everypar=\toks39
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/isotope\isotope.sty
+Package: isotope 2011/08/26 v0.3 for typesetting isotopes
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsi
+ze.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
+ro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen281
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count303
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count304
+ (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen282
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count305
+\Field@Width=\dimen283
+\Fld@charsize=\dimen284
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
+y
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip61
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count311
+\l__pdf_internal_box=\box62
+) ("cure per il cancro.aux")
+\openout1 = `"cure per il cancro.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \it@ocap on input line 35.
+LaTeX Info: Redefining \it@ccap on input line 35.
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 35.
+
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen285
+\scratchbox=\box63
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen286
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks41
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
+
+Package hyperref Info: Link coloring OFF on input line 35.
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count318
+)
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
+ ("cure per il cancro.out") ("cure per il cancro.out")
+\@outlinefile=\write4
+\openout4 = `"cure per il cancro.out"'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+
+
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+("cure per il cancro.aux")
+Package rerunfilecheck Info: File `"cure per il cancro".out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 28824 strings out of 479624
+ 693560 string characters out of 2864197
+ 1091981 words of memory out of 3000000
+ 45484 multiletter control sequences out of 15000+200000
+ 409586 words of font info for 50 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 97i,6n,94p,738b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "cure per il cancro.pdf" (1 page, 53882 bytes).
+PDF statistics:
+ 34 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
