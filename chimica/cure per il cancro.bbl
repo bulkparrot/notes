@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{bworld}
+\bibinfo{title}{Tumor immunology and immunotherapy}.
+\newblock
+  \bibinfo{howpublished}{\url{https://www.nature.com/collections/cbypxdjxfz}}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{note}{[Online]}.
+
+\bibitem{esfahani2020review}
+\bibinfo{author}{Esfahani, K.} \emph{et~al.}
+\newblock \bibinfo{title}{A review of cancer immunotherapy: from the past, to
+  the present, to the future}.
+\newblock \emph{\bibinfo{journal}{Current Oncology}}
+  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{S87} (\bibinfo{year}{2020}).
+
+\end{thebibliography}

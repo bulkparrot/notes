@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: cure per il cancro.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+The style file: naturemag.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: cancro.bib
+You've used 2 entries,
+            2348 wiz_defined-function locations,
+            989 strings with 9091 characters,
+and the built_in function-call counts, 601 in all, are:
+= -- 39
+> -- 9
+< -- 0
++ -- 5
+- -- 2
+* -- 67
+:= -- 66
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 58
+empty$ -- 63
+format.name$ -- 3
+if$ -- 120
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 12
+newline$ -- 18
+num.names$ -- 1
+pop$ -- 13
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 11
+stack$ -- 0
+substring$ -- 11
+swap$ -- 54
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 2
+width$ -- 3
+write$ -- 28

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  25 APR 2021 12:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  28 APR 2021 22:06
 entering extended mode
 **"./cure per il cancro.tex"
 ("cure per il cancro.tex"
@@ -654,6 +654,77 @@ File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 ze.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 )
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.
+sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count301
+\mult@box=\box62
+\multicol@leftmargin=\dimen281
+\c@unbalance=\count302
+\c@collectmore=\count303
+\doublecol@number=\count304
+\multicoltolerance=\count305
+\multicolpretolerance=\count306
+\full@width=\dimen282
+\page@free=\dimen283
+\premulticols=\dimen284
+\postmulticols=\dimen285
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box63
+\last@line=\box64
+\maxbalancingoverflow=\dimen286
+\mult@rightbox=\box65
+\mult@grightbox=\box66
+\mult@gfirstbox=\box67
+\mult@firstbox=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count307
+\c@columnbadness=\count308
+\c@finalcolumnbadness=\count309
+\last@try=\dimen287
+\multicolovershoot=\dimen288
+\multicolundershoot=\dimen289
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count310
+)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
 
@@ -699,9 +770,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen281
-\Hy@linkcounter=\count301
-\Hy@pagecounter=\count302
+\@linkdim=\dimen290
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
@@ -715,7 +786,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count303
+\Hy@SavedSpaceFactor=\count313
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -723,13 +794,13 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count304
+\c@Hy@tempcnt=\count314
  (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen282
+\XeTeXLinkMargin=\dimen291
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -739,9 +810,9 @@ lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count305
-\Field@Width=\dimen283
-\Fld@charsize=\dimen284
+\Fld@menulength=\count315
+\Field@Width=\dimen292
+\Fld@charsize=\dimen293
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -757,9 +828,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count306
-\c@Item=\count307
-\c@Hfootnote=\count308
+\Hy@abspage=\count316
+\c@Item=\count317
+\c@Hfootnote=\count318
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -772,8 +843,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count309
-\c@bookmark@seq@number=\count310
+\Fld@listcount=\count319
+\c@bookmark@seq@number=\count320
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
 ilecheck.sty
@@ -786,32 +857,32 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip61
+\Hy@SectionHShift=\skip63
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count311
-\l__pdf_internal_box=\box62
+\l__kernel_color_stack_int=\count321
+\l__pdf_internal_box=\box108
 ) ("cure per il cancro.aux")
 \openout1 = `"cure per il cancro.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -847,30 +918,30 @@ LaTeX Font Info:    ... okay on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 35.
-LaTeX Info: Redefining \it@ccap on input line 35.
+LaTeX Info: Redefining \it@ocap on input line 38.
+LaTeX Info: Redefining \it@ccap on input line 38.
 
 File italian.ldf warning: 
 italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 35.
+italian.ldf    on input line 38.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count312
-\scratchdimen=\dimen285
-\scratchbox=\box63
-\nofMPsegments=\count313
-\nofMParguments=\count314
+\scratchcounter=\count322
+\scratchdimen=\dimen294
+\scratchbox=\box109
+\nofMPsegments=\count323
+\nofMParguments=\count324
 \everyMPshowfont=\toks40
-\MPscratchCnt=\count315
-\MPscratchDim=\dimen286
-\MPnumerator=\count316
-\makeMPintoPDFobject=\count317
+\MPscratchCnt=\count325
+\MPscratchDim=\dimen295
+\MPnumerator=\count326
+\makeMPintoPDFobject=\count327
 \everyMPtoPDFconversion=\toks41
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
@@ -882,7 +953,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
 
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 38.
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -893,50 +964,67 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 itlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count318
+\c@section@level=\count328
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
  ("cure per il cancro.out") ("cure per il cancro.out")
 \@outlinefile=\write4
 \openout4 = `"cure per il cancro.out"'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1
+("cure per il cancro.bbl" [1
 
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-("cure per il cancro.aux")
+Underfull \hbox (badness 10000) in paragraph at lines 9--14
+[]\OT1/cmr/m/n/10.95 Tumor im-mu-no-lo-gy and im-mu-no-the-ra-py.  []$\OT1/cmtt
+/m/n/10.95 https : / / www . nature . com / collections /
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2] ("cure per il cancro.aux")
 Package rerunfilecheck Info: File `"cure per il cancro".out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 14A2CC4C56A0D24E8BCB579CFB1D9359;45.
  ) 
 Here is how much of TeX's memory you used:
- 28824 strings out of 479624
- 693560 string characters out of 2864197
- 1091981 words of memory out of 3000000
- 45484 multiletter control sequences out of 15000+200000
- 409586 words of font info for 50 fonts, out of 3000000 for 9000
+ 28978 strings out of 479624
+ 696004 string characters out of 2864197
+ 1098860 words of memory out of 3000000
+ 45622 multiletter control sequences out of 15000+200000
+ 411964 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 97i,6n,94p,738b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 97i,11n,94p,738b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "cure per il cancro.pdf" (1 page, 53882 bytes).
+m/cmbx10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Users/Tommaso/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tommaso/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Tommaso/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tomm
+aso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "cure per il cancro.pdf" (2 pages, 95292 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
