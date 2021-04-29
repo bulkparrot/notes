@@ -5,6 +5,25 @@
 \providecommand{\bibinfo}[2]{#2}
 \providecommand{\eprint}[2][]{\url{#2}}
 
+\bibitem{di2021numeri}
+\bibinfo{author}{di~Oncologia~Medica, A.~I.}
+\newblock \bibinfo{title}{I numeri del cancro in italia 2020}.
+\newblock \emph{\bibinfo{journal}{Inter media editore, Brescia}}
+  (\bibinfo{year}{2021}).
+
+\bibitem{miller2019cancer}
+\bibinfo{author}{Miller, K.~D.} \emph{et~al.}
+\newblock \bibinfo{title}{Cancer treatment and survivorship statistics, 2019}.
+\newblock \emph{\bibinfo{journal}{CA: a cancer journal for clinicians}}
+  \textbf{\bibinfo{volume}{69}}, \bibinfo{pages}{363--385}
+  (\bibinfo{year}{2019}).
+
+\bibitem{chabner2005chemotherapy}
+\bibinfo{author}{Chabner, B.~A.} \& \bibinfo{author}{Roberts, T.~G.}
+\newblock \bibinfo{title}{Chemotherapy and the war on cancer}.
+\newblock \emph{\bibinfo{journal}{Nature Reviews Cancer}}
+  \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{65--72} (\bibinfo{year}{2005}).
+
 \bibitem{bworld}
 \bibinfo{title}{Tumor immunology and immunotherapy}.
 \newblock
@@ -12,11 +31,11 @@
   (\bibinfo{year}{2018}).
 \newblock \bibinfo{note}{[Online]}.
 
-\bibitem{esfahani2020review}
-\bibinfo{author}{Esfahani, K.} \emph{et~al.}
-\newblock \bibinfo{title}{A review of cancer immunotherapy: from the past, to
-  the present, to the future}.
-\newblock \emph{\bibinfo{journal}{Current Oncology}}
-  \textbf{\bibinfo{volume}{27}}, \bibinfo{pages}{S87} (\bibinfo{year}{2020}).
+\bibitem{scheetz2019engineering}
+\bibinfo{author}{Scheetz, L.} \emph{et~al.}
+\newblock \bibinfo{title}{Engineering patient-specific cancer immunotherapies}.
+\newblock \emph{\bibinfo{journal}{Nature biomedical engineering}}
+  \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{768--782}
+  (\bibinfo{year}{2019}).
 
 \end{thebibliography}

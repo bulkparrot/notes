@@ -5,44 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 10 items.
 The style file: naturemag.bst
 Reallocating 'name_of_file' (item size: 1) to 11 items.
 Database file #1: cancro.bib
-You've used 2 entries,
+You've used 5 entries,
             2348 wiz_defined-function locations,
-            989 strings with 9091 characters,
-and the built_in function-call counts, 601 in all, are:
-= -- 39
-> -- 9
+            1006 strings with 9694 characters,
+and the built_in function-call counts, 1666 in all, are:
+= -- 121
+> -- 29
 < -- 0
-+ -- 5
-- -- 2
-* -- 67
-:= -- 66
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 3
++ -- 15
+- -- 7
+* -- 192
+:= -- 189
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 6
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 58
-empty$ -- 63
-format.name$ -- 3
-if$ -- 120
+cite$ -- 5
+duplicate$ -- 156
+empty$ -- 165
+format.name$ -- 10
+if$ -- 331
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 12
-newline$ -- 18
-num.names$ -- 1
-pop$ -- 13
+int.to.str$ -- 5
+missing$ -- 33
+newline$ -- 33
+num.names$ -- 4
+pop$ -- 29
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 11
+skip$ -- 25
 stack$ -- 0
-substring$ -- 11
-swap$ -- 54
+substring$ -- 71
+swap$ -- 143
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 2
-width$ -- 3
-write$ -- 28
+while$ -- 10
+width$ -- 6
+write$ -- 60

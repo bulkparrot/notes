@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  28 APR 2021 22:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 APR 2021 11:35
 entering extended mode
 **"./cure per il cancro.tex"
 ("cure per il cancro.tex"
@@ -159,6 +159,21 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 \f@nch@O@erf=\skip58
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
+) (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen157
+\captionmargin@=\dimen158
+\captionwidth=\dimen159
+\caption@tempdima=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
 
@@ -184,8 +199,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 ef
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
 z.sty
@@ -196,8 +211,8 @@ sty
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
 il-common.tex
 \pgfutil@everybye=\toks23
-\pgfutil@tempdima=\dimen159
-\pgfutil@tempdimb=\dimen160
+\pgfutil@tempdima=\dimen166
+\pgfutil@tempdimb=\dimen167
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
 il-common-lists.tex))
@@ -230,26 +245,26 @@ ys.code.tex
 ysfiltered.code.tex
 \pgfkeys@tmptoks=\toks26
 ))
-\pgf@x=\dimen161
-\pgf@y=\dimen162
-\pgf@xa=\dimen163
-\pgf@ya=\dimen164
-\pgf@xb=\dimen165
-\pgf@yb=\dimen166
-\pgf@xc=\dimen167
-\pgf@yc=\dimen168
-\pgf@xd=\dimen169
-\pgf@yd=\dimen170
+\pgf@x=\dimen168
+\pgf@y=\dimen169
+\pgf@xa=\dimen170
+\pgf@ya=\dimen171
+\pgf@xb=\dimen172
+\pgf@yb=\dimen173
+\pgf@xc=\dimen174
+\pgf@yc=\dimen175
+\pgf@xd=\dimen176
+\pgf@yd=\dimen177
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count272
-\c@pgf@countb=\count273
-\c@pgf@countc=\count274
-\c@pgf@countd=\count275
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
 \t@pgf@toka=\toks27
 \t@pgf@tokb=\toks28
 \t@pgf@tokc=\toks29
-\pgf@sys@id@count=\count276
+\pgf@sys@id@count=\count278
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 .cfg
@@ -268,8 +283,8 @@ File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 syssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count277
-\pgfsyssoftpath@bigbuffer@items=\count278
+\pgfsyssoftpath@smallbuffer@items=\count279
+\pgfsyssoftpath@bigbuffer@items=\count280
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 sysprotocol.code.tex
@@ -305,8 +320,8 @@ c.code.tex
 l.code.tex)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
 ser.code.tex
-\pgfmath@dimen=\dimen171
-\pgfmath@count=\count279
+\pgfmath@dimen=\dimen178
+\pgfmath@count=\count281
 \pgfmath@box=\box50
 \pgfmath@toks=\toks30
 \pgfmath@stack@operand=\toks31
@@ -332,39 +347,39 @@ ctions.misc.code.tex)
 ctions.integerarithmetics.code.tex)))
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
 at.code.tex
-\c@pgfmathroundto@lastzeros=\count280
+\c@pgfmathroundto@lastzeros=\count282
 ))
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
 e.tex)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orepoints.code.tex
 File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen172
-\pgf@picmaxx=\dimen173
-\pgf@picminy=\dimen174
-\pgf@picmaxy=\dimen175
-\pgf@pathminx=\dimen176
-\pgf@pathmaxx=\dimen177
-\pgf@pathminy=\dimen178
-\pgf@pathmaxy=\dimen179
-\pgf@xx=\dimen180
-\pgf@xy=\dimen181
-\pgf@yx=\dimen182
-\pgf@yy=\dimen183
-\pgf@zx=\dimen184
-\pgf@zy=\dimen185
+\pgf@picminx=\dimen179
+\pgf@picmaxx=\dimen180
+\pgf@picminy=\dimen181
+\pgf@picmaxy=\dimen182
+\pgf@pathminx=\dimen183
+\pgf@pathmaxx=\dimen184
+\pgf@pathminy=\dimen185
+\pgf@pathmaxy=\dimen186
+\pgf@xx=\dimen187
+\pgf@xy=\dimen188
+\pgf@yx=\dimen189
+\pgf@yy=\dimen190
+\pgf@zx=\dimen191
+\pgf@zy=\dimen192
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen186
-\pgf@path@lasty=\dimen187
+\pgf@path@lastx=\dimen193
+\pgf@path@lasty=\dimen194
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orepathusage.code.tex
 File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen188
-\pgf@shorten@start@additional=\dimen189
+\pgf@shorten@end@additional=\dimen195
+\pgf@shorten@start@additional=\dimen196
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orescopes.code.tex
@@ -372,19 +387,19 @@ File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfpic=\box51
 \pgf@hbox=\box52
 \pgf@layerbox@main=\box53
-\pgf@picture@serial@count=\count281
+\pgf@picture@serial@count=\count283
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen190
+\pgflinewidth=\dimen197
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oretransformations.code.tex
 File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen191
-\pgf@pt@y=\dimen192
-\pgf@pt@temp=\dimen193
+\pgf@pt@x=\dimen198
+\pgf@pt@y=\dimen199
+\pgf@pt@temp=\dimen256
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orequick.code.tex
@@ -401,14 +416,14 @@ File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orearrows.code.tex
 File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen194
+\pgfarrowsep=\dimen257
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oreshade.code.tex
 File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen195
-\pgf@sys@shading@range@num=\count282
-\pgf@shadingcount=\count283
+\pgf@max=\dimen258
+\pgf@sys@shading@range@num=\count284
+\pgf@shadingcount=\count285
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oreimage.code.tex
@@ -447,8 +462,8 @@ File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
 comp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen196
-\pgf@nodesepend=\dimen197
+\pgf@nodesepstart=\dimen259
+\pgf@nodesepend=\dimen260
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
 comp-version-1-18.sty
@@ -469,8 +484,8 @@ Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
 de.tex)
-\pgffor@iter=\dimen198
-\pgffor@skip=\dimen199
+\pgffor@iter=\dimen261
+\pgffor@skip=\dimen262
 \pgffor@stack=\toks33
 \pgffor@toks=\toks34
 ))
@@ -481,34 +496,34 @@ Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
 braryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count284
-\pgfplotmarksize=\dimen256
+\pgf@plot@mark@count=\count286
+\pgfplotmarksize=\dimen263
 )
-\tikz@lastx=\dimen257
-\tikz@lasty=\dimen258
-\tikz@lastxsaved=\dimen259
-\tikz@lastysaved=\dimen260
-\tikz@lastmovetox=\dimen261
-\tikz@lastmovetoy=\dimen262
-\tikzleveldistance=\dimen263
-\tikzsiblingdistance=\dimen264
+\tikz@lastx=\dimen264
+\tikz@lasty=\dimen265
+\tikz@lastxsaved=\dimen266
+\tikz@lastysaved=\dimen267
+\tikz@lastmovetox=\dimen268
+\tikz@lastmovetoy=\dimen269
+\tikzleveldistance=\dimen270
+\tikzsiblingdistance=\dimen271
 \tikz@figbox=\box56
 \tikz@figbox@bg=\box57
 \tikz@tempbox=\box58
 \tikz@tempbox@bg=\box59
-\tikztreelevel=\count285
-\tikznumberofchildren=\count286
-\tikznumberofcurrentchild=\count287
-\tikz@fig@count=\count288
+\tikztreelevel=\count287
+\tikznumberofchildren=\count288
+\tikznumberofcurrentchild=\count289
+\tikz@fig@count=\count290
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
 lematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count289
-\pgfmatrixcurrentcolumn=\count290
-\pgf@matrix@numberofcolumns=\count291
+\pgfmatrixcurrentrow=\count291
+\pgfmatrixcurrentcolumn=\count292
+\pgf@matrix@numberofcolumns=\count293
 )
-\tikz@expandcount=\count292
+\tikz@expandcount=\count294
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarytopaths.code.tex
@@ -521,9 +536,9 @@ re.code.tex
 \t@pgfplots@toka=\toks35
 \t@pgfplots@tokb=\toks36
 \t@pgfplots@tokc=\toks37
-\pgfplots@tmpa=\dimen265
-\c@pgfplots@coordindex=\count293
-\c@pgfplots@scanlineindex=\count294
+\pgfplots@tmpa=\dimen272
+\c@pgfplots@coordindex=\count295
+\c@pgfplots@scanlineindex=\count296
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplo
 tssysgeneric.code.tex))
@@ -541,13 +556,13 @@ ure\pgfplotsliststructure.code.tex)
 ure\pgfplotsliststructureext.code.tex)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
 ure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count295
+\c@pgfplotsarray@tmp=\count297
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
 ure\pgfplotsmatrix.code.tex)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\p
 gfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count296
+\c@pgfplotstable@counta=\count298
 \t@pgfplotstable@a=\toks38
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
@@ -560,7 +575,7 @@ otsbinary.data.code.tex))
 otsutil.verb.code.tex)
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfli
 brarypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count297
+\c@pgfplotslibrarysurf@no=\count299
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
 rarypgfplots.surfshading.pgfsys-pdftex.def)))
@@ -592,14 +607,14 @@ aths.code.tex)
 ikz/libraries\tikzlibrarydecorations.code.tex
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
 ledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen266
-\pgfdecoratedremainingdistance=\dimen267
-\pgfdecoratedinputsegmentcompleteddistance=\dimen268
-\pgfdecoratedinputsegmentremainingdistance=\dimen269
-\pgf@decorate@distancetomove=\dimen270
-\pgf@decorate@repeatstate=\count298
-\pgfdecorationsegmentamplitude=\dimen271
-\pgfdecorationsegmentlength=\dimen272
+\pgfdecoratedcompleteddistance=\dimen273
+\pgfdecoratedremainingdistance=\dimen274
+\pgfdecoratedinputsegmentcompleteddistance=\dimen275
+\pgfdecoratedinputsegmentremainingdistance=\dimen276
+\pgf@decorate@distancetomove=\dimen277
+\pgf@decorate@repeatstate=\count300
+\pgfdecorationsegmentamplitude=\dimen278
+\pgfdecorationsegmentlength=\dimen279
 )
 \tikz@lib@dec@box=\box60
 )
@@ -611,13 +626,13 @@ ations\pgflibrarydecorations.pathmorphing.code.tex))
 ikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
 ations\pgflibrarydecorations.pathreplacing.code.tex))
-\pgfplots@numplots=\count299
-\pgfplots@xmin@reg=\dimen273
-\pgfplots@xmax@reg=\dimen274
-\pgfplots@ymin@reg=\dimen275
-\pgfplots@ymax@reg=\dimen276
-\pgfplots@zmin@reg=\dimen277
-\pgfplots@zmax@reg=\dimen278
+\pgfplots@numplots=\count301
+\pgfplots@xmin@reg=\dimen280
+\pgfplots@xmax@reg=\dimen281
+\pgfplots@ymin@reg=\dimen282
+\pgfplots@ymax@reg=\dimen283
+\pgfplots@zmin@reg=\dimen284
+\pgfplots@zmax@reg=\dimen285
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibraryplotmarks.code.tex
@@ -628,102 +643,20 @@ braryplotmarks.code.tex
 File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )))
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
-\wrapoverhang=\dimen279
-\WF@size=\dimen280
-\c@WF@wrappedlines=\count300
+\wrapoverhang=\dimen286
+\WF@size=\dimen287
+\c@WF@wrappedlines=\count302
 \WF@box=\box61
 \WF@everypar=\toks39
 Package: wrapfig 2003/01/31  v 3.6
 )
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/isotope\isotope.sty
-Package: isotope 2011/08/26 v0.3 for typesetting isotopes
-)
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibraryshapes.geometric.code.tex
-File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
-s\pgflibraryshapes.geometric.code.tex
-File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
-ikz/libraries\tikzlibrarycalc.code.tex
-File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsi
-ze.sty
-Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
-)
-(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.
-sty
-Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count301
-\mult@box=\box62
-\multicol@leftmargin=\dimen281
-\c@unbalance=\count302
-\c@collectmore=\count303
-\doublecol@number=\count304
-\multicoltolerance=\count305
-\multicolpretolerance=\count306
-\full@width=\dimen282
-\page@free=\dimen283
-\premulticols=\dimen284
-\postmulticols=\dimen285
-\multicolsep=\skip61
-\multicolbaselineskip=\skip62
-\partial@page=\box63
-\last@line=\box64
-\maxbalancingoverflow=\dimen286
-\mult@rightbox=\box65
-\mult@grightbox=\box66
-\mult@gfirstbox=\box67
-\mult@firstbox=\box68
-\@tempa=\box69
-\@tempa=\box70
-\@tempa=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\@tempa=\box98
-\@tempa=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\@tempa=\box103
-\@tempa=\box104
-\@tempa=\box105
-\c@minrows=\count307
-\c@columnbadness=\count308
-\c@finalcolumnbadness=\count309
-\last@try=\dimen287
-\multicolovershoot=\dimen288
-\multicolundershoot=\dimen289
-\mult@nat@firstbox=\box106
-\colbreak@box=\box107
-\mc@col@check@num=\count310
+(C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count303
+\float@exts=\toks40
+\float@box=\box62
+\@float@everytoks=\toks41
+\@floatcapt=\box63
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
@@ -770,9 +703,9 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 ty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen290
-\Hy@linkcounter=\count311
-\Hy@pagecounter=\count312
+\@linkdim=\dimen288
+\Hy@linkcounter=\count304
+\Hy@pagecounter=\count305
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
@@ -786,7 +719,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count313
+\Hy@SavedSpaceFactor=\count306
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -794,13 +727,13 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count314
+\c@Hy@tempcnt=\count307
  (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen291
+\XeTeXLinkMargin=\dimen289
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -810,9 +743,9 @@ lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count315
-\Field@Width=\dimen292
-\Fld@charsize=\dimen293
+\Fld@menulength=\count308
+\Field@Width=\dimen290
+\Fld@charsize=\dimen291
 Package hyperref Info: Hyper figures OFF on input line 6347.
 Package hyperref Info: Link nesting OFF on input line 6352.
 Package hyperref Info: Hyper index ON on input line 6355.
@@ -828,9 +761,9 @@ Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
 )
-\Hy@abspage=\count316
-\c@Item=\count317
-\c@Hfootnote=\count318
+\Hy@abspage=\count309
+\c@Item=\count310
+\c@Hfootnote=\count311
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -843,8 +776,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count319
-\c@bookmark@seq@number=\count320
+\Fld@listcount=\count312
+\c@bookmark@seq@number=\count313
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
 ilecheck.sty
@@ -857,32 +790,32 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip63
+\Hy@SectionHShift=\skip61
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count321
-\l__pdf_internal_box=\box108
+\l__kernel_color_stack_int=\count314
+\l__pdf_internal_box=\box64
 ) ("cure per il cancro.aux")
 \openout1 = `"cure per il cancro.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -918,31 +851,36 @@ LaTeX Font Info:    ... okay on input line 38.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \it@ocap on input line 38.
-LaTeX Info: Redefining \it@ccap on input line 38.
+LaTeX Info: Redefining \it@ocap on input line 33.
+LaTeX Info: Redefining \it@ccap on input line 33.
 
 File italian.ldf warning: 
 italian.ldf    With OT1 encoding guillemets are poorly faked
 italian.ldf    Use T1 encoding
 italian.ldf    or specify a font with command \CaporaliFrom
 italian.ldf    See the documentation concerning the babel-italian typesetting 
-italian.ldf    on input line 38.
+italian.ldf    on input line 33.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen294
-\scratchbox=\box109
-\nofMPsegments=\count323
-\nofMParguments=\count324
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen295
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count315
+\scratchdimen=\dimen292
+\scratchbox=\box65
+\nofMPsegments=\count316
+\nofMParguments=\count317
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count318
+\MPscratchDim=\dimen293
+\MPnumerator=\count319
+\makeMPintoPDFobject=\count320
+\everyMPtoPDFconversion=\toks43
 )
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
 -base.sty
@@ -950,10 +888,13 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package pgfplots notification 'compat/show suggested version=true': you might b
-enefit from \pgfplotsset{compat=1.17} (current compat level: 1.9).
 
-Package hyperref Info: Link coloring OFF on input line 38.
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 33.
+
+Package hyperref Info: Link coloring OFF on input line 33.
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -964,31 +905,58 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 itlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count328
+\c@section@level=\count321
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
  ("cure per il cancro.out") ("cure per il cancro.out")
 \@outlinefile=\write4
 \openout4 = `"cure per il cancro.out"'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 
 
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-("cure per il cancro.bbl" [1
+<tumore_seno.png, id=6, 1156.32pt x 489.62926pt>
+File: tumore_seno.png Graphic file (type png)
+<use tumore_seno.png>
+Package pdftex.def Info: tumore_seno.png  used on input line 46.
+(pdftex.def)             Requested size: 328.82707pt x 139.232pt.
+<chemioterapia.png, id=12, 516.7305pt x 508.90125pt>
+File: chemioterapia.png Graphic file (type png)
+<use chemioterapia.png>
+Package pdftex.def Info: chemioterapia.png  used on input line 63.
+(pdftex.def)             Requested size: 234.8775pt x 231.31747pt.
 
-{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
+[1
+
+{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./tumore_seno
+.png>]
+<vaccino_cancro.png, id=33, 529.98pt x 567.3195pt>
+File: vaccino_cancro.png Graphic file (type png)
+<use vaccino_cancro.png>
+Package pdftex.def Info: vaccino_cancro.png  used on input line 76.
+(pdftex.def)             Requested size: 121.52083pt x 130.08401pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2 <./chemioterapia.png> <./vaccino_cancro.png>] ("cure per il cancro.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 28--33
 []\OT1/cmr/m/n/10.95 Tumor im-mu-no-lo-gy and im-mu-no-the-ra-py.  []$\OT1/cmtt
 /m/n/10.95 https : / / www . nature . com / collections /
  []
@@ -1002,16 +970,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2] ("cure per il cancro.aux")
+[3] ("cure per il cancro.aux")
 Package rerunfilecheck Info: File `"cure per il cancro".out' has not changed.
-(rerunfilecheck)             Checksum: 14A2CC4C56A0D24E8BCB579CFB1D9359;45.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28978 strings out of 479624
- 696004 string characters out of 2864197
- 1098860 words of memory out of 3000000
- 45622 multiletter control sequences out of 15000+200000
- 411964 words of font info for 59 fonts, out of 3000000 for 9000
+ 29517 strings out of 479624
+ 703665 string characters out of 2864197
+ 1084527 words of memory out of 3000000
+ 46166 multiletter control sequences out of 15000+200000
+ 411656 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,11n,94p,738b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Tommaso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
@@ -1022,9 +990,9 @@ eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tommaso/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Tommaso/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tomm
 aso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "cure per il cancro.pdf" (2 pages, 95292 bytes).
+Output written on "cure per il cancro.pdf" (3 pages, 632984 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
