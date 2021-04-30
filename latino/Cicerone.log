@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  10 APR 2021 23:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  30 APR 2021 12:14
 entering extended mode
 **./Cicerone.tex
 (Cicerone.tex
@@ -236,26 +236,33 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 (C:\Users\Tommaso\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
 [1
 
-{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
 (Cicerone.aux) ) 
 Here is how much of TeX's memory you used:
- 3095 strings out of 479624
- 41543 string characters out of 2864197
- 316708 words of memory out of 3000000
- 20243 multiletter control sequences out of 15000+200000
- 411056 words of font info for 49 fonts, out of 3000000 for 9000
+ 3103 strings out of 479624
+ 41634 string characters out of 2864197
+ 322708 words of memory out of 3000000
+ 20247 multiletter control sequences out of 15000+200000
+ 414151 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,70p,910b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,6n,70p,972b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecti1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on Cicerone.pdf (1 page, 32422 bytes).
+n/ec/dpi600\ecbx1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tomm
+aso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on Cicerone.pdf (2 pages, 63609 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
+ 201 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 APR 2021 11:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.19)  29 APR 2021 19:25
 entering extended mode
 **"./cure per il cancro.tex"
 ("cure per il cancro.tex"
@@ -945,7 +945,7 @@ Package pdftex.def Info: chemioterapia.png  used on input line 63.
 File: vaccino_cancro.png Graphic file (type png)
 <use vaccino_cancro.png>
 Package pdftex.def Info: vaccino_cancro.png  used on input line 76.
-(pdftex.def)             Requested size: 121.52083pt x 130.08401pt.
+(pdftex.def)             Requested size: 197.47237pt x 211.38776pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -977,7 +977,7 @@ Package rerunfilecheck Info: File `"cure per il cancro".out' has not changed.
 Here is how much of TeX's memory you used:
  29517 strings out of 479624
  703665 string characters out of 2864197
- 1084527 words of memory out of 3000000
+ 1084553 words of memory out of 3000000
  46166 multiletter control sequences out of 15000+200000
  411656 words of font info for 58 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -990,7 +990,7 @@ eX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Tommaso/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Tommaso/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Tomm
 aso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "cure per il cancro.pdf" (3 pages, 632984 bytes).
+Output written on "cure per il cancro.pdf" (3 pages, 633020 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
