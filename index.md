@@ -5,7 +5,8 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 ### Matematica
 
 -[Fasci di rette](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/fasci%20di%20rette.pdf)  
--[Circonferenza](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/Circonferenza.pdf)
+-[Circonferenza](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/Circonferenza.pdf)  
+-[Parabola](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/matematica/parabola.pdf)
 
 ### Biologia
 
@@ -14,6 +15,7 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 ### Chimica
 
 -[Teorie atomiche](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/chimica/Teorie%20atomiche.pdf)  
+-[Lavoro di educazione civica: cure per il cancro](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/chimica/cure%20per%20il%20cancro.pdf)
 
 ### Fisica
 
@@ -29,9 +31,11 @@ In questo sito sono presenti tutti gli appunti che uso per studiare durante il l
 ### Letteratura italiana
 -[Divina Commeida - Canti I III V](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Canti%20I%20III%20V.pdf)  
 -[Divina Commedai - Canti VI X XIII XXVI](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Canti%20VI%20XIII%20e%20XXVI.pdf)  
--[Petrarca](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Petrarca.pdf)
+-[Petrarca](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/Petrarca.pdf)  
+-[Boccaccio](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/italiano/boccaccio.pdf)
 
 ### Letteratura latina
 
 -[Lucrezio](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/latino/Lucrezio.pdf)  
--[Cesare](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/latino/Cesare.pdf)
+-[Cesare](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/latino/Cesare.pdf)  
+-[Cicerone](https://nbviewer.jupyter.org/github/bulkparrot/notes/blob/main/latino/Cicerone.pdf)
