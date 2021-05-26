@@ -1,0 +1,94 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
+\author{Tommaso Severini}
+\title{Funzione omografica}
+\date{}
+
+\parindent 0ex
+\begin{document}
+	\maketitle
+	
+	\thispagestyle{empty}
+	
+	Per definizione, una funzione omografica è una funzione rappresentata dalla funzione analitica:
+	
+	\begin{equation*}
+		y = \frac{ax+b}{cx+d}	\qquad	\text{con} \quad a,b,c,d \in \mathbb{R} 
+	\end{equation*}
+
+	Nonostante questa funzione possa sia rappresentare sia una retta che un'iperbole, questa relazione si concentrerà sulla rappresentazione di un'iperbole e, in particolare, della sua derivazione.
+	
+	\section*{Derivazione}
+	
+	\subsection*{Ipotesi}
+	
+	In questo testo è presentata la dimostrazione del fatto che la funzione omografica non sia altro che la traslazione di un'iperbole equilatera nella forma $xy = k$.
+	
+	\subsection*{Dimostrazione}
+	
+	Sia data l'equazione di un'iperbole equilatera riferita ai propri assi di equazione:
+	
+	\begin{equation}
+		xy = k
+	\end{equation}
+
+	Sia dato un vettore $\hat{V} (-\frac{d}{c}; \frac{a}{c})$ e il relativo sistema di traslazione:
+	
+	\begin{equation*}
+		\left\{\begin{array}{@{}l@{}}
+			x' = x-\frac{d}{c}\\
+			y' = y+\frac{a}{c}
+		\end{array}\right.\,
+	\end{equation*}
+
+	Da cui:
+	
+	\begin{equation}
+		\left\{\begin{array}{@{}l@{}}
+			x = x'+\frac{d}{c}\\
+			y = y'-\frac{a}{c}
+		\end{array}\right.\,
+	\end{equation}
+
+	Sostituendoi nuovi valori di x e y del sistema (2) nell'equazione (1), otteniamo:
+	
+	\begin{equation*}
+		\left(x+\frac{d}{c}\right)\left(y-\frac{a}{c}\right)=k
+	\end{equation*}
+
+	\begin{equation*}
+		xy + \frac{d}{c} y - \frac{a}{c} x - \frac{ad}{c^2}=k
+	\end{equation*}
+
+	Raccogliendo a fattor comune il termine $y$, otteniamo:
+	
+	\begin{equation*}
+		\left( x+\frac{d}{c} \right) y = \frac{a}{c} x + \frac{ad}{c^2} + k
+	\end{equation*}
+
+	\begin{equation*}
+		y = \frac{\frac{a}{c} x + \frac{ad}{c^2} + k}{x+\frac{d}{c}}
+	\end{equation*}
+
+	Moltiplicando sia il numeratore che il denominatore per $c$, otteniamo:
+	
+	\begin{equation*}
+		y = \frac{ax + \frac{ad}{c} + kc}{cx+d}
+	\end{equation*}
+
+	Ponendo $\frac{ad}{c} + kc = b$, otteniamo la funzione omografica nella sua forma canonica:
+	
+	\begin{equation}
+		y = \frac{ax+b}{cx+d}
+	\end{equation}
+	
+	\hfill $\blacksquare$
+	
+\end{document}
