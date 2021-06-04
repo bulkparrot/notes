@@ -1,0 +1,518 @@
+%%% SETUP %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\documentclass[10pt, a4paper]{article}
+	
+	%%% PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% Encoding
+	
+	\usepackage[utf8]{inputenc}
+	\usepackage[T1]{fontenc}
+	
+	% Geometry
+	
+	\usepackage{geometry} % edit margins of paper
+	\usepackage{setspace} % edit line spacing
+	\usepackage{fancyhdr} % header, footer
+	\usepackage{titlesec} % edit format of titles
+	
+	% Visual
+	
+	\usepackage[dvipsnames]{xcolor} % colors
+	\usepackage{tikz} % graphics
+	\usepackage[framemethod=tikz]{mdframed} % frames, better theorems
+	
+	% Math
+	
+	\usepackage{amsmath} % math tools
+	\usepackage{amssymb} % math symbols
+	\usepackage{amsthm} % thereoms
+	\usepackage{mathtools} % math tools
+	
+	% Referencing
+	
+	\usepackage{nameref}
+	\usepackage{hyperref}
+	\usepackage{cleveref}
+	
+	% Useful
+	
+	\usepackage[shortlabels]{enumitem} % enumerations
+	
+	% Other
+	
+	\usepackage{lastpage} % get number of last page
+	
+	%%% MARGINS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\geometry{a4paper, left=20mm, right=20mm, top=20mm, bottom=10mm, includehead}
+	
+	%%% TITLES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	%%% SINGLE SYMBOLS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% Logic
+	
+	% \forall exists
+	% \exists exists
+	% \lnot exists
+	% \lor exists
+	% \land exists
+	\newcommand*{\limp}{\rightarrow}
+	\newcommand*{\limps}{\; \limp \;} % \limp with some space around
+	\newcommand*{\leqv}{\leftrightarrow}
+	\newcommand*{\leqvs}{\; \leqvs \;} % \leqv with some space around
+	
+	% Meta Logic
+	
+	% \implies exists
+	% \iff exists
+	
+	% Colon Stuff
+	
+	\newcommand*{\cl}{\colon}
+	\newcommand*{\cleq}{\coloneqq}
+	\newcommand*{\eqcl}{\eqqcolon}
+	
+	% Sets
+	
+	\newcommand*{\N}{\mathbb{N}} % natural numbers
+	\newcommand*{\Z}{\mathbb{Z}} % integers
+	\newcommand*{\Q}{\mathbb{Q}} % rational numbers
+	\newcommand*{\R}{\mathbb{R}} % real numbers
+	\newcommand*{\C}{\mathbb{C}} % complex numbers
+	
+	%%% MATH OPERATORS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% General
+	
+	\DeclareMathOperator{\id}{id}
+	\DeclareMathOperator{\sgn}{sgn}
+	
+	%%% TEMPLATES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% General
+	
+	% write a set definition like: { #1 | #2 }
+	\newcommand*{\setdefinition}[2]{
+		\left\{ #1 \mathrel{}\middle|\mathrel{} #2 \right\}
+	}
+	
+	% write a nice map definition
+	\newcommand*{\mapdefinition}[5]{
+		\begin{align*}
+			#1 \cl #2 &\to     #3 \\
+			#4 &\mapsto #5
+		\end{align*}
+	}
+	
+	\colorlet{color-section}                {BrickRed}
+	\colorlet{color-subsection}             {BrickRed}
+	
+	%%% MATH BOXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\colorlet{color-definition}             {SpringGreen!30}
+	\colorlet{color-theorem}                {Apricot!30}
+	\colorlet{color-proposition}            {Apricot!30}
+	\colorlet{color-corollary}              {Apricot!30}
+	\colorlet{color-lemma}                  {Apricot!30}
+	\colorlet{color-remark}                 {Gray!5}
+	\colorlet{color-example}                {Lavender!7}
+	% \colorlet{color-proof}                  {FILL COLOR HERE}
+	
+	\newcommand*{\definitionname}{Definition}
+	\newcommand*{\theoremname}{Theorem}
+	\newcommand*{\propositionname}{Proposition}
+	\newcommand*{\corollaryname}{Corollary}
+	\newcommand*{\lemmaname}{Lemma}
+	\newcommand*{\remarkname}{Remark}
+	\newcommand*{\examplename}{Example}
+	
+	%%% HEADER, FOOTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\pagestyle{fancy}
+	\fancyhf{} % clear everything
+	\lhead{TRASLAZIONE DELL'ELLISSE}
+	\rhead{Tommaso Severini}
+	\lfoot{}
+	\cfoot{}
+	\rfoot{}
+	
+	%%% TITLE FORMAT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\setcounter{secnumdepth}{2}
+	
+	\titleformat{\chapter}[display]
+	{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+	\titleformat{\section}
+	{\normalfont\Large\bfseries\color{color-section}}{\thesection}{1em}{}
+	\titleformat{\subsection}
+	{\normalfont\large\bfseries\color{color-subsection}}{\thesubsection}{1em}{}
+	\titleformat{\subsubsection}
+	{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+	\titleformat{\paragraph}[runin]
+	{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+	\titleformat{\subparagraph}[runin]
+	{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+	
+	%%% SPACING %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% Titles
+	
+	\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+	\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+	\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+	\titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+	\titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{1em}
+	\titlespacing*{\subparagraph}{\parindent}{3.25ex plus 1ex minus .2ex}{1em}
+	
+	% Text, Paragraphs
+	
+	%\setstretch{1.05} % scaling of space between lines
+	\setlength{\parindent}{0pt} % indentation of paragraphs
+	%\setlength{\parskip}{4.0pt plus 1.0pt minus 1.0pt} % space between paragraphs
+	\setlength{\parskip}{0.8ex}
+	\setlength{\topsep}{0pt}
+	
+	%%% SYMBOLS USED BY NUMBERINGS, ENVIRONMENTS, ... %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% \renewcommand*\qedsymbol{$\blacksquare$} % alternative QED symbol
+	\renewcommand{\thefootnote}{\arabic{footnote}} % normal footnotes on page
+	\renewcommand{\thempfootnote}{\fnsymbol{mpfootnote}} % footnotes on minipages, e.g. in mdframed environments
+	
+	%%% LISTS, ENUMERATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% 'itemize'
+	
+	\setlist[itemize]{noitemsep, topsep=0pt}
+	
+	% 'enumerate'
+	
+	% no special settings at the moment
+	
+	% 'description'
+	
+	% no special settings at the moment
+	
+	% 'axioms'
+	
+	\newlist{axioms}{enumerate}{2}
+	\setlist[axioms]{itemsep=0pt,label*=\arabic*.}
+	
+	%%% MDFRAMED PATCH %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	\usepackage{xpatch}
+	
+	\makeatletter
+	\xpatchcmd{\endmdframed}
+	{\aftergroup\endmdf@trivlist\color@endgroup}
+	{\endmdf@trivlist\color@endgroup\@doendpe}
+	{}{}
+	\makeatother
+	
+	%%% MDFRAMED STYLES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% thick frame and bar for title
+	
+	\mdfdefinestyle{style-box}{
+		skipabove=1.5ex plus .5ex minus .2ex,
+		skipbelow=1ex plus .2ex minus .2ex,
+		linewidth=2pt,
+		linecolor=Gray!20,
+		%   roundcorner=3pt,
+		innerleftmargin=0.5\baselineskip,
+		innerrightmargin=0.5\baselineskip,
+		innertopmargin=0.4\baselineskip,
+		innerbottommargin=0.4\baselineskip,
+		frametitlebackgroundcolor=Gray!20,
+		frametitleaboveskip=0.3pt,
+		frametitlebelowskip=0.3pt,
+		theoremseparator=,
+		theoremspace=\hfill,
+		theoremtitlefont=\mdseries\scshape,
+		nobreak=true
+	}
+	
+	% highlighted background
+	
+	\mdfdefinestyle{style-background}{
+		skipabove=1.5ex plus .5ex minus .2ex,
+		skipbelow=1ex plus .2ex minus .2ex,
+		hidealllines=true,
+		backgroundcolor=Gray!5,
+		innerleftmargin=0.5\baselineskip,
+		innerrightmargin=0.5\baselineskip,
+		innertopmargin=0.4\baselineskip,
+		innerbottommargin=0.4\baselineskip,
+	}
+	
+	% thin frame
+	
+	\mdfdefinestyle{style-leftline}{
+		skipabove=1.5ex plus .5ex minus .2ex,
+		skipbelow=1ex plus .2ex minus .2ex,
+		linewidth=1pt,
+		linecolor=Gray!50,
+		topline=false,
+		bottomline=false,
+		rightline=false,
+		innerleftmargin=0.5\baselineskip,
+		innerrightmargin=0,
+		innertopmargin=0.2\baselineskip,
+		innerbottommargin=0.0\baselineskip,
+	}
+	
+	%%% ENVIRONMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% Definition
+	
+	\mdtheorem[
+	style=style-box,
+	linecolor=color-definition,
+	frametitlebackgroundcolor=color-definition
+	]{definition}{\definitionname}[section]
+	
+	% Theorem
+	
+	\mdtheorem[
+	style=style-box,
+	linecolor=color-theorem,
+	frametitlebackgroundcolor=color-theorem,
+	font=\itshape
+	]{theorem}{\theoremname}[section]
+	
+	% Proposition
+	
+	\mdtheorem[
+	style=style-box,
+	linecolor=color-proposition,
+	frametitlebackgroundcolor=color-proposition,
+	font=\itshape
+	]{proposition}[theorem]{\propositionname}
+	
+	% Corollary
+	
+	\mdtheorem[
+	style=style-box,
+	linecolor=color-corollary,
+	frametitlebackgroundcolor=color-corollary,
+	font=\itshape
+	]{corollary}[theorem]{\corollaryname}
+	
+	% Lemma
+	
+	\mdtheorem[
+	style=style-box,
+	linecolor=color-lemma,
+	frametitlebackgroundcolor=color-lemma,
+	font=\itshape
+	]{lemma}[theorem]{\lemmaname}
+	
+	\theoremstyle{remark}
+	
+	% Remark
+	
+	\newtheorem*{remark}{\remarkname}
+	\surroundwithmdframed[
+	style=style-background,
+	backgroundcolor=color-remark
+	]{remark}
+	
+	% Example
+	
+	\newtheorem*{example}{\examplename}
+	\surroundwithmdframed[
+	style=style-background,
+	backgroundcolor=color-example
+	]{example}
+	
+	% Proof
+	
+	\surroundwithmdframed[
+	style=style-leftline
+	]{proof}
+	
+	%%% TEXT FORMATTING %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	
+	% definitions
+	
+	\newcommand*{\df}[1]{\textbf{#1}}
+
+%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	\title{Traslazione dell'ellisse}
+	\author{Tommaso Severini}
+	\date{}
+
+\begin{document}
+	
+	\maketitle
+	
+	\section*{Elementi teorici}
+	
+	\subsection*{Definizione}
+	
+	L'ellisse è il luogo geometrico dei punti del piano per i quali è costante la somma delle distanze da due punti fissi detti fuochi. In termini più generali un'ellisse è una conica non degenere.
+	
+	Partiamo dalla definizione di ellisse anticipata e spieghiamone il significato:
+	
+	\begin{definition*}[Ellisse]
+		Si definisce \textbf{ellisse} il luogo geometrico dei punti del piano per cui è costante la somma da due punti fissi $F_1 e F_2$, detti fuochi.\\
+		
+		Indicando con $P$ uno dei punti appartenenti all'ellisse, possiamo tradurre la definizione data in formule:
+		
+		\begin{equation*}
+			\overline{\rm PF_1} + \overline{\rm PF_2} = 2a \qquad \text{dove $a$ rappresenta il semiasse maggiore dell'ellisse}
+		\end{equation*}
+	\end{definition*}
+
+	Questa condizione, una volta espansa attraverso l'utilizzo della formula di disanza tra 2 punti, si traduce analiticamente nella seguente:
+	
+	\begin{equation}
+		\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 \qquad \text{con $a>b>0$}
+	\end{equation}
+
+	\subsection*{Parametri}
+	
+	\subsubsection*{Assi principali}
+	
+	In questo articolo, tutte le considerazioni riguardanti il \textbf{semiasse maggiore} e il \textbf{semiasse minore} sono indicati rispettivamente con le lettere $a$ e $b$. In particolar modo, in questo articolo è fatta l'assunzione $a>b$, in modo da semplificare di molto i calcoli. 
+	
+	Nonostante ciò, è possibile che si verifichi il caso in cui $a<b$. In tale situazione, i fuochi dell'ellisse saranno situati lungo l'asse y.
+	
+	\subsubsection*{Eccentricità}
+
+	La deformazione di un ellisse è misurata attraverso la sua eccentricità $e$, che può assumere valori compresi tra 0, nel caso in cui l'ellisse degenera in una circonferenza, e 1, nel caso in cui l'ellisse degenera in un segmento. 
+	
+	Questo valore è espresso dal rapporto tra la distanza focale ed il semiasse maggiore dell'ellisse, ovvero:
+	
+	\begin{equation*}
+		e = \frac{2c}{2a} = \frac{c}{a} = \sqrt{1- \frac{b^2}{a^2}}
+	\end{equation*}
+
+	\subsubsection*{Rette tangenti}
+	
+	Dato un punto dell'ellisse di coordinate $P(x_0;y_0)$, la retta tangente all'ellisse nel punto P avrà equazione:
+	
+	\begin{equation*}
+		\frac{xx_0}{a^2} + \frac{yy_0}{b^2} = 1
+	\end{equation*}
+
+	\subsection*{Applicazioni pratiche}
+	
+	Gli ellissi sono comuni in ambiti come la fisica, l'astronomia e l'ingegneria. Per esempio, l'orbita di ogni pianeta del sistema solare, secondo la prima legge di Keplero, è un ellisse in cui uno dei fuochi è rappresentato dal Sole.
+	
+	Lo stesso ragionamento risulta corretto anche per molte lune che orbitano i rispettivi pianeti e tutti gli altri sistemi astronomici costituiti da due corpi celesti.
+	
+	Oltre a ciò, la forma di pianeti e stelle può essere approssimata da un ellissoide, solido ottenuto attraverso la rotazione di un ellisse attorno ad uno dei propri assi.
+
+	
+
+
+	
+	\section*{Interpretazione geometrica}
+	
+	In questa sezione di articolo osserveremo quale modifiche subisce l'equazione dell'ellisse nell'ipotesi in cui il centro sia un punto diverso dall'origine degli assi.\\
+	
+	Consideriamo un ellisse $\gamma$, di semiassi $a$ e $b$, avente centro nell'origne O. Definiamo quindi  il sistema di traslazione che sposti il centro dell'ellisse da O ad un punto $C(x_C;y_C)$:
+	
+	\begin{equation}
+		\begin{cases} x'=x+x_C \\ y'=y+y_C \end{cases} \qquad \Rightarrow \qquad \begin{cases}
+			x=x'-x_C \\ y= y'-y_C
+		\end{cases}
+	\end{equation}
+
+	Applicando la traslazione (2) all'equazione (1), otterremo la formula dell'ellisse traslata di centro C.
+	
+	\begin{equation}
+		\frac{(x-x_C)^2}{a^2} + \frac{(y-y_C)^2}{b^2} =1
+	\end{equation}
+	
+	\section*{Interpretazione algebrica}
+	
+	In geometrai analitica, ogni sezione conica può essere rappresentata mediante l'utilizzo di uno strumento dell'algebra lineare noto come \textbf{rappresentazione matriciale delle sezioni coniche}. Questa metodologia consente di studiare dati elementi matematici senza ridurre essi ad una forma canonica condizionata da rotazioni o traslazioni, rendendo lo studio molto più semplice. \\
+	
+	Le sezioni coniche possono essere rappresentate come l'insieme dei punti del piano che rispettano la seguente equazione di secondo grado in 2 incognite:
+	
+	\begin{equation}
+		Q(x,y) = Ax^2 + Bxy + Cy^2 + Dx + Ey + F =0
+	\end{equation}
+
+	I valori A, B e C sono influenzati e possono essere usati per ricavare un possibile angolo di rotazione dell'ellisse(nel caso in cui $B=0$, l'ellisse è privo di rotazione), mentre i valori D, E ed F sono influenzati e possono essere utilizzati per ricavare le coordinate del centro dell'ellisse.\\
+
+	I principali strumenti che ci permettono di determinare la tipologia di sezione conica rappresentata dalla formula sovracitata sono le matrici $A_Q$ e $A_{33}$:
+	$$A_Q = \begin{vmatrix}
+		A & B/2 & D/2 \\
+		B/2 & C & E/2 \\
+		D/2 & E/2 & F
+	\end{vmatrix}
+	\qquad
+	\qquad
+	A_{33}= \begin{vmatrix}
+		A & B/2 \\
+		B/2 & C
+	\end{vmatrix}$$
+
+	Dove $A_Q$ è nota come equazione dell'equazione quadratica e $A_{33}$ è nota come matrice della forma quadratica, rappresentata dalla prima minore di $A_Q$.	
+	
+	In particolare, il determinante della matrice $A_Q$ è utilizzata per distinguere le sezioni coniche degeneri da quelle proprie, mentre il determinante della matrice $A_{33}$ permette di individuare la tipologia di sezione conica che si sta studiando. 
+	
+	Nel caso di un ellisse non degenere, le condizioni necessarie sono $det(A_Q) \ne 0$, affinchè non si ottenga un ellisse degenere, e $det(A_{33} > 0)$, che identifica l'ellisse.
+	
+	\begin{theorem*}
+		Un'equazione della forma $Ax^2 + Bxy + Cy^2 + Dx + Ey + F =0 \: con B=0$ rappresenta un ellisse se e solo se è verificata la \textbf{condizione di realtà}:
+		
+		$$ \frac{D^2}{4A} + \frac{E^2}{4C^2} - F >= 0 $$
+		
+		Il centro di tale ellisse sarà dato dal punto di coordinate:
+		
+		$$ \left( -\frac{D}{2A}; -\frac{E}{2C} \right) $$ 
+		
+	\end{theorem*}
+
+	\begin{proof}
+		Per dimostrare quale sia la condizione di realtà di un ellisse, utilizzeremo la proprietà\footnote{Lawrence, J. Dennis, A Catalog of Special Plane Curves, Dover Publ., 1972. pag. 63} che indica come in un ellisse reale e non degenere, il prodotto $C \cdot det(A_Q) < 0$  (5).\\
+		
+		$$
+			det(A_Q) = \left( AC - \frac{B^2}{4} \right) F - \frac{BED}{4} - \frac{CD^2}{4} - \frac{AE^2}{4}
+		$$
+		
+		Poichè B=0 per ipotesi, è possibile semplificare ulteriormente il valore del determinante:
+		
+		$$
+			det(A_Q) = ACF - \frac{CD^2}{4} - \frac{AE^2}{4}
+		$$
+		
+		Sostituendo il valore ottenuto nell'equazione (5), otteniamo:
+		
+		$$
+		 C \cdot ACF - \frac{CD^2}{4} - \frac{AE^2}{4} < 0
+		$$
+		$$
+		AC^2F - \frac{C^2D^2}{4} - \frac{AE^2C}{4} < 0
+		$$
+		
+		Dividendo per $-AC^2$ entrambi i membri, otteniamo la condizione di realtà:
+		
+		$$
+		\frac{D^2}{4A} + \frac{E^2}{4C^2} - F >= 0
+		$$
+		
+	\end{proof}
+
+	\begin{proof}
+		Il centro di una conica, se esso esiste, è il punto medio di tutte le corde dell'ellisse che attraversano il centro stesso. Questa proprietà\footnote{Ayoub, A. B. (1993), "The central conic sections revisited", Mathematics Magazine} può essere usata per calcolare le coordinate del centro, che può essere rappresentato come il punto in cui il gradiente della funzione funzione di secondo grado $Q$ diviene 0: 
+		
+		$$\nabla Q = \left[ \frac{\partial Q}{\partial x} ; \frac{\partial Q}{\partial y} \right] = [0;0] $$
+		
+		Svolgendo le rispettive derivate parziali mettendo a sistema le equazioni ottenute, è facile constatare come le coordinate del centro risulteranno essere:
+		
+		$$ \left( \frac{2CD-BE}{B^2-4AC}; \frac{2AE-BD}{B^2-4AC} \right) $$
+		
+		Poichè stiamo considerando il caso in cui B=0, le coordinate assumeranno la forma:
+		
+		$$ \left( -\frac{D}{2A}; -\frac{E}{2C} \right) $$
+		
+	\end{proof}
+	
+\end{document}
