@@ -1,0 +1,401 @@
+\documentclass[10pt, a4paper]{article}
+
+\usepackage{graphicx}
+\usepackage{caption}
+
+%%% PACKAGES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Encoding
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Geometry
+
+\usepackage{geometry} % edit margins of paper
+\usepackage{setspace} % edit line spacing
+\usepackage{fancyhdr} % header, footer
+\usepackage{titlesec} % edit format of titles
+
+% Visual
+
+\usepackage[dvipsnames]{xcolor} % colors
+\usepackage{tikz} % graphics
+\usepackage[framemethod=tikz]{mdframed} % frames, better theorems
+
+% Math
+
+\usepackage{amsmath} % math tools
+\usepackage{amssymb} % math symbols
+\usepackage{amsthm} % thereoms
+\usepackage{mathtools} % math tools
+
+% Referencing
+
+\usepackage{nameref}
+\usepackage{hyperref}
+\usepackage{cleveref}
+
+% Useful
+
+\usepackage[shortlabels]{enumitem} % enumerations
+
+% Other
+
+\usepackage{lastpage} % get number of last page
+
+%%% MARGINS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\geometry{a4paper, left=20mm, right=20mm, top=20mm, bottom=10mm, includehead}
+
+%%% TITLES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% SINGLE SYMBOLS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Logic
+
+% \forall exists
+% \exists exists
+% \lnot exists
+% \lor exists
+% \land exists
+\newcommand*{\limp}{\rightarrow}
+\newcommand*{\limps}{\; \limp \;} % \limp with some space around
+\newcommand*{\leqv}{\leftrightarrow}
+\newcommand*{\leqvs}{\; \leqvs \;} % \leqv with some space around
+
+% Meta Logic
+
+% \implies exists
+% \iff exists
+
+% Colon Stuff
+
+\newcommand*{\cl}{\colon}
+\newcommand*{\cleq}{\coloneqq}
+\newcommand*{\eqcl}{\eqqcolon}
+
+% Sets
+
+\newcommand*{\N}{\mathbb{N}} % natural numbers
+\newcommand*{\Z}{\mathbb{Z}} % integers
+\newcommand*{\Q}{\mathbb{Q}} % rational numbers
+\newcommand*{\R}{\mathbb{R}} % real numbers
+\newcommand*{\C}{\mathbb{C}} % complex numbers
+
+%%% MATH OPERATORS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% General
+
+\DeclareMathOperator{\id}{id}
+\DeclareMathOperator{\sgn}{sgn}
+
+%%% TEMPLATES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% General
+
+% write a set definition like: { #1 | #2 }
+\newcommand*{\setdefinition}[2]{
+	\left\{ #1 \mathrel{}\middle|\mathrel{} #2 \right\}
+}
+
+% write a nice map definition
+\newcommand*{\mapdefinition}[5]{
+	\begin{align*}
+		#1 \cl #2 &\to     #3 \\
+		#4 &\mapsto #5
+	\end{align*}
+}
+
+\colorlet{color-section}                {BrickRed}
+\colorlet{color-subsection}             {BrickRed}
+
+%%% MATH BOXES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\colorlet{color-definition}             {SpringGreen!30}
+\colorlet{color-theorem}                {Apricot!30}
+\colorlet{color-proposition}            {Apricot!30}
+\colorlet{color-corollary}              {Apricot!30}
+\colorlet{color-lemma}                  {Apricot!30}
+\colorlet{color-remark}                 {Gray!5}
+\colorlet{color-example}                {Lavender!7}
+% \colorlet{color-proof}                  {FILL COLOR HERE}
+
+\newcommand*{\definitionname}{Definition}
+\newcommand*{\theoremname}{Theorem}
+\newcommand*{\propositionname}{Proposition}
+\newcommand*{\corollaryname}{Corollary}
+\newcommand*{\lemmaname}{Lemma}
+\newcommand*{\remarkname}{Remark}
+\newcommand*{\examplename}{Example}
+
+%%% HEADER, FOOTER %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagestyle{fancy}
+\fancyhf{} % clear everything
+\lhead{TRASLAZIONE DELL'ELLISSE}
+\rhead{Tommaso Severini}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+%%% TITLE FORMAT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{secnumdepth}{2}
+
+\titleformat{\chapter}[display]
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titleformat{\section}
+{\normalfont\Large\bfseries\color{color-section}}{\thesection}{1em}{}
+\titleformat{\subsection}
+{\normalfont\large\bfseries\color{color-subsection}}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries}{\thesubsubsection}{1em}{}
+\titleformat{\paragraph}[runin]
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titleformat{\subparagraph}[runin]
+{\normalfont\normalsize\bfseries}{\thesubparagraph}{1em}{}
+
+%%% SPACING %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Titles
+
+\titlespacing*{\chapter}{0pt}{50pt}{40pt}
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\subsubsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{1em}
+\titlespacing*{\subparagraph}{\parindent}{3.25ex plus 1ex minus .2ex}{1em}
+
+% Text, Paragraphs
+
+%\setstretch{1.05} % scaling of space between lines
+\setlength{\parindent}{0pt} % indentation of paragraphs
+%\setlength{\parskip}{4.0pt plus 1.0pt minus 1.0pt} % space between paragraphs
+\setlength{\parskip}{0.8ex}
+\setlength{\topsep}{0pt}
+
+%%% SYMBOLS USED BY NUMBERINGS, ENVIRONMENTS, ... %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \renewcommand*\qedsymbol{$\blacksquare$} % alternative QED symbol
+\renewcommand{\thefootnote}{\arabic{footnote}} % normal footnotes on page
+\renewcommand{\thempfootnote}{\fnsymbol{mpfootnote}} % footnotes on minipages, e.g. in mdframed environments
+
+%%% LISTS, ENUMERATIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% 'itemize'
+
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+% 'enumerate'
+
+% no special settings at the moment
+
+% 'description'
+
+% no special settings at the moment
+
+% 'axioms'
+
+\newlist{axioms}{enumerate}{2}
+\setlist[axioms]{itemsep=0pt,label*=\arabic*.}
+
+%%% MDFRAMED PATCH %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{xpatch}
+
+\makeatletter
+\xpatchcmd{\endmdframed}
+{\aftergroup\endmdf@trivlist\color@endgroup}
+{\endmdf@trivlist\color@endgroup\@doendpe}
+{}{}
+\makeatother
+
+%%% MDFRAMED STYLES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% thick frame and bar for title
+
+\mdfdefinestyle{style-box}{
+	skipabove=1.5ex plus .5ex minus .2ex,
+	skipbelow=1ex plus .2ex minus .2ex,
+	linewidth=2pt,
+	linecolor=Gray!20,
+	%   roundcorner=3pt,
+	innerleftmargin=0.5\baselineskip,
+	innerrightmargin=0.5\baselineskip,
+	innertopmargin=0.4\baselineskip,
+	innerbottommargin=0.4\baselineskip,
+	frametitlebackgroundcolor=Gray!20,
+	frametitleaboveskip=0.3pt,
+	frametitlebelowskip=0.3pt,
+	theoremseparator=,
+	theoremspace=\hfill,
+	theoremtitlefont=\mdseries\scshape,
+	nobreak=true
+}
+
+% highlighted background
+
+\mdfdefinestyle{style-background}{
+	skipabove=1.5ex plus .5ex minus .2ex,
+	skipbelow=1ex plus .2ex minus .2ex,
+	hidealllines=true,
+	backgroundcolor=Gray!5,
+	innerleftmargin=0.5\baselineskip,
+	innerrightmargin=0.5\baselineskip,
+	innertopmargin=0.4\baselineskip,
+	innerbottommargin=0.4\baselineskip,
+}
+
+% thin frame
+
+\mdfdefinestyle{style-leftline}{
+	skipabove=1.5ex plus .5ex minus .2ex,
+	skipbelow=1ex plus .2ex minus .2ex,
+	linewidth=1pt,
+	linecolor=Gray!50,
+	topline=false,
+	bottomline=false,
+	rightline=false,
+	innerleftmargin=0.5\baselineskip,
+	innerrightmargin=0,
+	innertopmargin=0.2\baselineskip,
+	innerbottommargin=0.0\baselineskip,
+}
+
+%%% ENVIRONMENTS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Definition
+
+\mdtheorem[
+style=style-box,
+linecolor=color-definition,
+frametitlebackgroundcolor=color-definition
+]{definition}{\definitionname}[section]
+
+% Theorem
+
+\mdtheorem[
+style=style-box,
+linecolor=color-theorem,
+frametitlebackgroundcolor=color-theorem,
+font=\itshape
+]{theorem}{\theoremname}[section]
+
+% Proposition
+
+\mdtheorem[
+style=style-box,
+linecolor=color-proposition,
+frametitlebackgroundcolor=color-proposition,
+font=\itshape
+]{proposition}[theorem]{\propositionname}
+
+% Corollary
+
+\mdtheorem[
+style=style-box,
+linecolor=color-corollary,
+frametitlebackgroundcolor=color-corollary,
+font=\itshape
+]{corollary}[theorem]{\corollaryname}
+
+% Lemma
+
+\mdtheorem[
+style=style-box,
+linecolor=color-lemma,
+frametitlebackgroundcolor=color-lemma,
+font=\itshape
+]{lemma}[theorem]{\lemmaname}
+
+\theoremstyle{remark}
+
+% Remark
+
+\newtheorem*{remark}{\remarkname}
+\surroundwithmdframed[
+style=style-background,
+backgroundcolor=color-remark
+]{remark}
+
+% Example
+
+\newtheorem*{example}{\examplename}
+\surroundwithmdframed[
+style=style-background,
+backgroundcolor=color-example
+]{example}
+
+% Proof
+
+\surroundwithmdframed[
+style=style-leftline
+]{proof}
+
+%%% TEXT FORMATTING %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% definitions
+
+\newcommand*{\df}[1]{\textbf{#1}}
+
+%%% DOCUMENT %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\author{Tommaso Severini}
+\title{Funzioni esponenziali}
+
+\begin{document}
+	\maketitle
+	
+\section*{Introduzione}
+	
+	Quella esponenziale è una funzione costituita da una potenza in cui la base è costante (appartenente all'insieme dei numeri reali positivi) e l'esponente rappresenta una variabile.
+	
+	\begin{definition*}
+		Si definisce \textbf{funzione esponenziali elementare} la funzione di forma:
+		$$ y = a^x \qquad a>0, a \neq 1 $$
+	\end{definition*}
+
+\subsection*{Base maggiore di 1 ($a>1$)}
+
+Per studiare le caratteristiche delle funzioni esponenziali con base maggiore di 1, utilizzeremo il grafico di $2^x$: 
+
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../../../../esponenziale}
+	\caption*{}
+	\label{fig:esponenziale}
+\end{figure}
+
+Da ciò è possibile dedurre gli aspetti fondamentali di questa funzione:
+
+\begin{itemize}
+	\item $y>0 \qquad \forall x \in \mathbb{R}$
+	\item Il grafico passerà sempre per il punto (0;1)
+	\item L'asse x costituisce un asintoto orizzontale
+	\item La funzione è strettamente crescente
+\end{itemize}
+
+\newpage
+
+\subsection*{Base compresa tra 0 e 1 ($0<x<1$)}
+
+Per studiare le caratteristiche di questa tipologia di funzioni, utilizzeremo il grafico di $\left( \frac{1}{2}\right)^x$:
+
+\begin{figure}[th]
+	\centering
+	\includegraphics[width=0.7\linewidth]{../../Immagini/esponenziale1}
+	\caption*{}
+	\label{fig:esponenziale1}
+\end{figure}
+
+Da ciò è possibile dedurre gli aspetti fondamentali di questa funzione:
+
+\begin{itemize}
+	\item $y>0 \qquad \forall x \in \mathbb{R}$
+	\item Il grafico passerà sempre per il punto (0;1)
+	\item L'asse x costituisce un asintoto orizzontale
+	\item La funzione è strettamente decrescente
+\end{itemize}
+
+\end{document}
