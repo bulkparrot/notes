@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  22 OCT 2021 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  23 OCT 2021 09:06
 entering extended mode
 **./Virgilio.tex
 (Virgilio.tex
@@ -245,20 +245,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {C:/Users/Tommaso/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 (Virgilio.aux) ) 
 Here is how much of TeX's memory you used:
- 3144 strings out of 478927
- 42810 string characters out of 2851587
- 338974 words of memory out of 3000000
- 20983 multiletter control sequences out of 15000+600000
- 410370 words of font info for 48 fonts, out of 8000000 for 9000
+ 3150 strings out of 478927
+ 42879 string characters out of 2851587
+ 339974 words of memory out of 3000000
+ 20986 multiletter control sequences out of 15000+600000
+ 412689 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,66p,558b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,6n,66p,568b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on Virgilio.pdf (1 page, 26210 bytes).
+n/ec/dpi600\ecbx1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Tommaso\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Tommaso\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on Virgilio.pdf (1 page, 42731 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 142 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
